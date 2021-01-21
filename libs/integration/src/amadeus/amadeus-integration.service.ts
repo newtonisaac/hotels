@@ -1,8 +1,7 @@
 import { Injectable, Inject } from '@nestjs/common';
 import { INTEGRATION_CONFIG } from '../integration.constants';
 import { IntegrationOptions } from '../integration.options';
-import { AmadeusHotelOffer } from './interfaces/hotal-offer.interface';
-
+import { AmadeusHotelOffer } from './interfaces/hotel-offer.interface';
 
 const Amadeus = require('amadeus');
 
@@ -22,8 +21,8 @@ export class AmadeusIntegrationService {
 
   async getHotelOffersByCityCode(cityCode: string): Promise<AmadeusHotelOffer[]>{
     return (await this.client.get('/v2/shopping/hotel-offers', {
-        CityCode: cityCode,
+        cityCode,
         radius: 300 
-    }))?.data
+    }))?.result?.data
   }
 }

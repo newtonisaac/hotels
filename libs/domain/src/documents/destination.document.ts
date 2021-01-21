@@ -4,9 +4,7 @@ import { IDestination } from '../interfaces/destination.interface';
 
 @Schema()
 export class Destination extends Document implements IDestination {
-  @Prop()
-  Name: string;
-  
+
   @Prop()
   City: string;
   
@@ -14,7 +12,7 @@ export class Destination extends Document implements IDestination {
   CountryCode: string;
   
   @Prop()
-  IATACOde: string;
+  IATACode: string;
   
   @Prop()
   AccuLocationKey?: string;

@@ -16,7 +16,7 @@ export interface IHotel {
     Media: IMedium[];
     Description: IDescription;
     DestinationId: string;
-    AveragePrize: number;
+    AveragePrize?: number;
 }
 
 export interface IHotelDistance {

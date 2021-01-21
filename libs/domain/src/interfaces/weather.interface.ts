@@ -3,9 +3,10 @@ export interface IWeather {
     WeatherText: string;
     WeatherIcon: number;
     HasPrecipitation: boolean;
-    PrecipitationType?: any;
+    PrecipitationType?: string;
     IsDayTime: boolean;
     Temperature: ITemperature;
+    DestinationId: string;
 }
 
 export interface IMetric {

@@ -1,7 +1,7 @@
 import * as mongoose from 'mongoose'
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
-import { IOffer, IRoom, IGuests, IPrice, IRateFamilyEstimated } from '../interfaces/offer.interface';
+import { IOffer, IRoom, IGuests, IPrice } from '../interfaces/offer.interface';
 
 @Schema()
 export class Offer extends Document implements IOffer {
@@ -19,9 +19,6 @@ export class Offer extends Document implements IOffer {
   
   @Prop({ type: mongoose.Schema.Types.Mixed })
   Price: IPrice;
-  
-  @Prop({ type: mongoose.Schema.Types.Mixed })
-  RateFamilyEstimated: IRateFamilyEstimated;
   
   @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'destinations' })
   DestinationId: string;

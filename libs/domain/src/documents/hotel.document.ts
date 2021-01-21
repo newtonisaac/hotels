@@ -52,7 +52,7 @@ export class Hotel extends Document implements IHotel {
   DestinationId: string;
 
   @Prop()
-  AveragePrize: number;
+  AveragePrize?: number;
 }
 
 export const HotelSchema = SchemaFactory.createForClass(Hotel);

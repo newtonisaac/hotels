@@ -8,11 +8,10 @@ import { Offer, OfferSchema } from './documents/offer.document';
 import { Weather, WeatherSchema } from './documents/weather.document';
 
 //Services
-import { DestinationDataService } from './services/data/destination-data/destination-data.service';
-import { HotelDataService } from './services/data/hotel-data/hotel-data.service';
-import { OfferDataService } from './services/data/offer-data/offer-data.service';
-import { WeatherDataService } from './services/data/weather-data/weather-data.service';
-
+import { DestinationDataService } from './services/data/destination-data.service';
+import { HotelDataService } from './services/data/hotel-data.service';
+import { OfferDataService } from './services/data/offer-data.service';
+import { WeatherDataService } from './services/data/weather-data.service';
 
 
 @Module({

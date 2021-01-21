@@ -10,22 +10,24 @@ export class Weather extends Document implements IWeather {
   
   @Prop()
   WeatherText: string;
+  
   @Prop()
   WeatherIcon: number;
   
   @Prop()
-  
-  @Prop()
   HasPrecipitation: boolean;
   
-  @Prop()
+  @Prop({ type: mongoose.Schema.Types.Mixed })
   PrecipitationType?: any;
   
   @Prop()
   IsDayTime: boolean;
   
-  @Prop()
+  @Prop({ type: mongoose.Schema.Types.Mixed })
   Temperature: ITemperature;
+
+  @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'destinations' })
+  DestinationId: string;
 }
 
 export const WeatherSchema = SchemaFactory.createForClass(Weather);

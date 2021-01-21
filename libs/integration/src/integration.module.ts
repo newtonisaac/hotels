@@ -1,4 +1,4 @@
-import { Module, DynamicModule, Provider } from '@nestjs/common';
+import { Module, DynamicModule, Provider, HttpModule } from '@nestjs/common';
 import { ValueProvider } from '@nestjs/common/interfaces';
 import { INTEGRATION_CONFIG } from './integration.constants';
 import { IntegrationOptions, IntegrationAsyncOptions, IntegrationOptionsFactory } from './integration.options';
@@ -16,6 +16,7 @@ export class IntegrationModule {
 
     return {
       module: IntegrationModule,
+      imports: [HttpModule],
       providers: [
         IntegrationOptionsProvider,
         AmadeusIntegrationService,
@@ -24,7 +25,7 @@ export class IntegrationModule {
       exports: [
         AmadeusIntegrationService,
         AccuweatherIntegrationService,
-      ],
+      ]
     };
   }
 
@@ -38,7 +39,10 @@ export class IntegrationModule {
         AmadeusIntegrationService,
         AccuweatherIntegrationService,
       ],
-      imports: options.imports,
+      imports: [
+        ...options.imports,
+        HttpModule
+      ],
       exports: [
         AmadeusIntegrationService,
         AccuweatherIntegrationService,

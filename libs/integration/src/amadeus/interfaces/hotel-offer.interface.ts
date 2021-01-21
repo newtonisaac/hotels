@@ -26,7 +26,7 @@ export interface Description {
     text: string;
 }
 
-export interface Hotel {
+export interface AmadeusHotel {
     type: string;
     hotelId: string;
     chainCode: string;
@@ -87,7 +87,7 @@ export interface RateFamilyEstimated {
     type: string;
 }
 
-export interface Offer {
+export interface AmadeusOffer {
     id: string;
     rateCode: string;
     room: Room;
@@ -98,9 +98,9 @@ export interface Offer {
 
 export interface AmadeusHotelOffer {
     type: string;
-    hotel: Hotel;
+    hotel: AmadeusHotel;
     available: boolean;
-    offers: Offer[];
+    offers: AmadeusOffer[];
     self: string;
 }
 

@@ -4,7 +4,7 @@ import { IntegrationOptions } from '../integration.options';
 import { AccuweatherLocation } from './interfaces/location.interface';
 import { AccuweatherWeather } from './interfaces/weather.interface';
 import { Observable, pipe } from 'rxjs';
-import { take, map } from 'rxjs/operators';
+import { take, map, tap } from 'rxjs/operators';
 
 const Amadeus = require('amadeus');
 
@@ -27,10 +27,10 @@ export class AccuweatherIntegrationService {
       params: {
         apikey: this.api_key,
         q: text
-      }
+      }   
     }).pipe(take(1))
       .pipe(
-      map(r => r.data.lenght ? r.data[0]: undefined)
+      map(r => r.data.length ? r.data[0]: undefined)
     );
   }
 
@@ -41,7 +41,7 @@ export class AccuweatherIntegrationService {
       }
     }).pipe(take(1))
       .pipe(
-      map(r => r.data.lenght ? r.data[0]: undefined)
+      map(r => r.data.length ? r.data[0]: undefined)
     );
   }
 }
