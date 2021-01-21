@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es2017",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": true,
+    "paths": {
+      "@tui/domain": [
+        "libs/domain/src"
+      ],
+      "@tui/domain/*": [
+        "libs/domain/src/*"
+      ],
+      "@tui/integration": [
+        "libs/integration/src"
+      ],
+      "@tui/integration/*": [
+        "libs/integration/src/*"
+      ]
+    }
+  }
+}
