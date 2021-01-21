@@ -5,7 +5,8 @@
   "root": "apps/seeder",
   "compilerOptions": {
     "webpack": true,
-    "tsConfigPath": "apps/seeder/tsconfig.app.json"
+    "tsConfigPath": "apps/seeder/tsconfig.app.json",
+    "plugins": ["@nestjs/swagger/plugin"]
   },
   "projects": {
     "seeder": {

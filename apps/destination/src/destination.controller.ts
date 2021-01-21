@@ -1,12 +1,16 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Param, Query } from '@nestjs/common';
+import { ApiTags } from '@nestjs/swagger'
 import { DestinationService } from './destination.service';
+import { DestinationDto } from './model/destination.dto';
+import { DestinationQueryDto } from './model/destination.query.dto';
 
-@Controller()
+@Controller('/destination')
+@ApiTags('destination')
 export class DestinationController {
   constructor(private readonly destinationService: DestinationService) {}
 
   @Get()
-  getHello(): string {
-    return this.destinationService.getHello();
+  public async get(@Query() query: DestinationQueryDto): Promise<DestinationDto[]> {
+    return await this.destinationService.get(query);
   }
 }
