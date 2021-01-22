@@ -17,7 +17,7 @@ $ yarn
 ## Running the app
 
 ```bash
-# development
+# up mongo
 docker-compose up -d
 
 # seed the database, if erros on AccuWeather API, change between  ACCUWEATHER_API_KEY_#(1,2,3,4) on file tui/apps/seeder/src/configuration/index.ts or restore with data of ./backup_data
