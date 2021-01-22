@@ -12,7 +12,7 @@ import { join } from 'path'
   imports: [
     ConfigModule.forRoot({
 			isGlobal: true,
-			envFilePath: process.env.NODE_ENV == 'dev' ? join(__dirname,'../../../apps/wheater/env/.env.' + process.env.NODE_ENV) : join(__dirname,'../env.' + process.env.NODE_ENV),
+			envFilePath: process.env.NODE_ENV == 'dev' ? join(__dirname,'../../../apps/weather/env/.env.' + process.env.NODE_ENV) : join(__dirname,'../env.' + process.env.NODE_ENV),
 			load: [configuration],
     }),
     MongooseModule.forRootAsync({

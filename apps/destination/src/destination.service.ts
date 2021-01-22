@@ -14,8 +14,8 @@ export class DestinationService {
   ) { }
 
   async get(query: DestinationQueryDto): Promise<DestinationDto[]> {
-    const filter: DestinationQueryDto = {}
-    query.countryCode ? filter.countryCode = query.countryCode : undefined
-    return (await this.destinationDataService.model.find()).map(this.mapper.toDto());
+    const filter: any = {}
+    query.countryCode ? filter.CountryCode = query.countryCode : undefined
+    return (await this.destinationDataService.model.find(filter)).map(this.mapper.toDto());
   }
 }

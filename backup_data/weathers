@@ -1,0 +1,309 @@
+[{
+  "_id": {
+    "$oid": "6009e1061af104f6af009381"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": false,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:07:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 61,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 61,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 7,
+  "WeatherText": "Cloudy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e1071af104f6af009384"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": false,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:07:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 51,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 51,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 7,
+  "WeatherText": "Cloudy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e1071af104f6af009386"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "HasPrecipitation": true,
+  "IsDayTime": true,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:10:00Z"
+  },
+  "PrecipitationType": "Rain",
+  "Temperature": {
+    "Imperial": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 74,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 16,
+  "WeatherText": "Thundershower",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e1071af104f6af009388"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0e"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": true,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:10:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 3,
+  "WeatherText": "Partly sunny",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e1081af104f6af00938a"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c10"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": true,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:10:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 84,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 3,
+  "WeatherText": "Partly sunny",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e1081af104f6af00938c"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": false,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:07:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 57,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 57,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 35,
+  "WeatherText": "Partly cloudy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e1081af104f6af00938e"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": false,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:07:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 31,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 31,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 7,
+  "WeatherText": "Cloudy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e1091af104f6af009390"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": false,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:07:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 37,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 37,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 7,
+  "WeatherText": "Cloudy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e1091af104f6af009392"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c18"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": false,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:07:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 44,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 44,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 38,
+  "WeatherText": "Mostly cloudy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e10a1af104f6af009394"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": false,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:07:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 59,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 59,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 38,
+  "WeatherText": "Mostly cloudy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009e10a1af104f6af009396"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1c"
+  },
+  "HasPrecipitation": false,
+  "IsDayTime": false,
+  "LocalObservationDateTime": {
+    "$date": "2021-01-21T20:07:00Z"
+  },
+  "PrecipitationType": null,
+  "Temperature": {
+    "Imperial": {
+      "Value": 59,
+      "Unit": "F",
+      "UnitType": 18
+    },
+    "Metric": {
+      "Value": 59,
+      "Unit": "F",
+      "UnitType": 18
+    }
+  },
+  "WeatherIcon": 7,
+  "WeatherText": "Cloudy",
+  "__v": 0
+}]

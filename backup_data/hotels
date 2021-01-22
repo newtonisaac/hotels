@@ -1,0 +1,3486 @@
+[{
+  "_id": {
+    "$oid": "6009dbb81af104f6af009069"
+  },
+  "ExternalHotelId": "HSFAOAFK",
+  "Address": {
+    "Lines": [
+      "RUA INFANTE DOM HENRIQUE, 55-1"
+    ],
+    "CityName": "FARO",
+    "CountryCode": "PT",
+    "PostalCode": "8000-363"
+  },
+  "AveragePrize": 40,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289824182",
+    "Fax": "(351) 289824182"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700132366",
+  "HotelDistance": {
+    "Distance": 0.6,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.01921,
+  "Longitude": -7.93771,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/7E2DA68B708E4E19A95AC5D36B6409BB",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "São Filipe",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dc391af104f6af00909d"
+  },
+  "ExternalHotelId": "HSFAOAFC",
+  "Address": {
+    "Lines": [
+      "AVENIDA ANDRE JORDAN 2095"
+    ],
+    "CityName": "ALMANCIL",
+    "CountryCode": "PT",
+    "PostalCode": "8135-998"
+  },
+  "AveragePrize": 224,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 2831907",
+    "Fax": "(351) 2800000"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700070599",
+  "HotelDistance": {
+    "Distance": 7.7,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.04081,
+  "Longitude": -8.01437,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/6418EEC9BF3E430AAAD2135F7EA3B3B7",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Monte da Quinta Resort",
+  "Rating": "5",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090de"
+  },
+  "ExternalHotelId": "HSFAOAAS",
+  "Address": {
+    "Lines": [
+      "ARRETORTA - PECHAO"
+    ],
+    "CityName": "OLHAO",
+    "CountryCode": "PT",
+    "PostalCode": "8700-180"
+  },
+  "AveragePrize": 54,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289990990",
+    "Fax": "(351) 289990999"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "501423962",
+  "HotelDistance": {
+    "Distance": 8.6,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.06819,
+  "Longitude": -7.86433,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/3A632C35083E476AA279C2DA31460FAF",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Quinta dos Poetas",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090e0"
+  },
+  "ExternalHotelId": "HSFAOABB",
+  "Address": {
+    "Lines": [
+      "SEMINO E.N. 396"
+    ],
+    "CityName": "QUARTEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "8125-303"
+  },
+  "AveragePrize": 57,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289315129",
+    "Fax": "(351) 289313950"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700146601",
+  "HotelDistance": {
+    "Distance": 15,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.09264,
+  "Longitude": -8.07285,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/FFEAA2A6C02C4E1A95FCA9F294EBA841",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Aquashow Park Hotel",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090e2"
+  },
+  "ExternalHotelId": "HSFAOABG",
+  "Address": {
+    "Lines": [
+      "AV. INFANTE SAGRES, 143"
+    ],
+    "CityName": "QUARTEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "8125-157"
+  },
+  "AveragePrize": 46,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289310210",
+    "Fax": "(351) 289302755"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700001353",
+  "HotelDistance": {
+    "Distance": 16,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.06715,
+  "Longitude": -8.10265,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/8A96C1C42B29488F89918AF9AE1E729B",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Dom José",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090e4"
+  },
+  "ExternalHotelId": "HSFAOAAR",
+  "Address": {
+    "Lines": [
+      "PRACA MANUEL DE ARRIAGA 25"
+    ],
+    "CityName": "LOULE",
+    "CountryCode": "PT",
+    "PostalCode": "8100-665"
+  },
+  "AveragePrize": 43,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289413094",
+    "Fax": "(351) 289463177"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700009606",
+  "HotelDistance": {
+    "Distance": 16,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.14022,
+  "Longitude": -8.02768,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/537BD7D62FB74AA19E0B225EAC122625",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Loulé Jardim Hotel",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090e6"
+  },
+  "ExternalHotelId": "HSFAOAGF",
+  "Address": {
+    "Lines": [
+      "VICTORIA GARDENS APARTADO 665"
+    ],
+    "CityName": "VILAMOURA",
+    "CountryCode": "PT",
+    "PostalCode": "8125"
+  },
+  "AveragePrize": 85,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289317000",
+    "Fax": "(351) 289317324"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700137772",
+  "HotelDistance": {
+    "Distance": 17,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.08838,
+  "Longitude": -8.1014,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/B85049FEA3B245DCB468EAFE40D05F06",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "The Residences at Victoria Resort Suite Apartments",
+  "Rating": "5",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090e8"
+  },
+  "ExternalHotelId": "HLFAO100",
+  "Address": {
+    "Lines": [
+      "RUA DA TORRE D'AGUA, LOTE 4.11.1B"
+    ],
+    "CityName": "VILAMOURA",
+    "CountryCode": "PT",
+    "PostalCode": "8125615"
+  },
+  "AveragePrize": 95,
+  "ChainCode": "HL",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "351-289-304000",
+    "Fax": "351-289-304005"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700049537",
+  "HotelDistance": {
+    "Distance": 18,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.09165,
+  "Longitude": -8.11537,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/BFD61810641C4836B49519619323EFEA",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "HILTON VILAMOURA AS CASCATAS GOLF RESORT",
+  "Rating": "5",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090ea"
+  },
+  "ExternalHotelId": "HSFAOAID",
+  "Address": {
+    "Lines": [
+      "SITIO DA CORTE, SANTA CATARINA DA FONTE DO BISPO"
+    ],
+    "CityName": "TAVIRA",
+    "CountryCode": "PT",
+    "PostalCode": "8800-166"
+  },
+  "AveragePrize": 1510,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 281971625",
+    "Fax": "(351) 281971266"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700132246",
+  "HotelDistance": {
+    "Distance": 24,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.16219,
+  "Longitude": -7.74248,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/0D48C51F5E10403487B3D9918087EAD2",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Herdade da Corte",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090ec"
+  },
+  "ExternalHotelId": "HSFAOAEK",
+  "Address": {
+    "Lines": [
+      "PRAIS DE STA. EULALIA PBOX 2445"
+    ],
+    "CityName": "ALBUFEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "8200-916"
+  },
+  "AveragePrize": 63.2,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289598000",
+    "Fax": "(351) 289598002"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700012314",
+  "HotelDistance": {
+    "Distance": 27,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.0942,
+  "Longitude": -8.2256,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/12BCF95DEAAC46419FFFFBFD91A6CF0F",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Grande Real Santa Eulália Resort & Spa",
+  "Rating": "5",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090ee"
+  },
+  "ExternalHotelId": "HSFAOAHU",
+  "Address": {
+    "Lines": [
+      "ESTRADA DE SANTA EULALIA"
+    ],
+    "CityName": "ALBUFEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "8200-269"
+  },
+  "AveragePrize": 59.9,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289590324",
+    "Fax": "(351) 289598228"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700163353",
+  "HotelDistance": {
+    "Distance": 27,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.08967,
+  "Longitude": -8.22185,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/2A3C247129EF43F58B17A6CFFC189AEA",
+      "Category": "LOBBY"
+    }
+  ],
+  "Name": "Oura Praia Hotel",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090f0"
+  },
+  "ExternalHotelId": "HSFAOADZ",
+  "Address": {
+    "Lines": [
+      "RUA OLIVEIRA MARTINS"
+    ],
+    "CityName": "ALBUFEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "8200-619"
+  },
+  "AveragePrize": 47.52,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 289590324",
+    "Fax": "(351) 289598228"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700011285",
+  "HotelDistance": {
+    "Distance": 27,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.08752,
+  "Longitude": -8.22369,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/6CC8A7FED35C438F8EBB7F86C387592C",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Club Praia da Oura",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcdc1af104f6af0090f2"
+  },
+  "ExternalHotelId": "HSFAOAIB",
+  "Address": {
+    "Lines": [
+      "RUA JOSE PIRES PADINHA, 134-140"
+    ],
+    "CityName": "TAVIRA",
+    "CountryCode": "PT",
+    "PostalCode": "8800-354"
+  },
+  "AveragePrize": 45,
+  "ChainCode": "HS",
+  "CityCode": "FAO",
+  "Contact": {
+    "Phone": "(351) 281325815",
+    "Fax": "(351) 281325819"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "DupeId": "700136230",
+  "HotelDistance": {
+    "Distance": 28,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 37.12505,
+  "Longitude": -7.6464,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/CDCB8DA6DF994D98A40A7960B30782C6",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Residencial Marés",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af0090f8"
+  },
+  "ExternalHotelId": "HSFNCADT",
+  "Address": {
+    "Lines": [
+      "SERRADO 1"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9230-116"
+  },
+  "AveragePrize": 45,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291570290",
+    "Fax": "(351) 291574312"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700006113",
+  "HotelDistance": {
+    "Distance": 7.5,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.80129,
+  "Longitude": -16.8773,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/5225D4F08A9449FB8D13CF5386D98613",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "O Colmo Hotel",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af0090fa"
+  },
+  "ExternalHotelId": "SMFNCMAD",
+  "Address": {
+    "Lines": [
+      "RUA LEICHLINGEN"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9000-003"
+  },
+  "AveragePrize": 76,
+  "ChainCode": "SM",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "351-291-724140",
+    "Fax": "351-291-773617"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700055546",
+  "HotelDistance": {
+    "Distance": 10,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.67142,
+  "Longitude": -16.93627,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/326381DFAEC24BE9A8E199CDAC8433C0",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "MELIA MADEIRA MARE",
+  "Rating": "5",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af0090fc"
+  },
+  "ExternalHotelId": "HSFNCADW",
+  "Address": {
+    "Lines": [
+      "RUA ALEGRIA 2A"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9000-040"
+  },
+  "AveragePrize": 70,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291201800",
+    "Fax": "(351) 291201809"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700054350",
+  "HotelDistance": {
+    "Distance": 13,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.64858,
+  "Longitude": -16.91516,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/FF941DFAF081484DBECB221D880329FE",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Funchal Design",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af0090fe"
+  },
+  "ExternalHotelId": "HSFNCAEX",
+  "Address": {
+    "Lines": [
+      "RUA HOSPITAL VELHO 19 A"
+    ],
+    "CityName": "FUNCHAL",
+    "CountryCode": "PT",
+    "PostalCode": "9060-129"
+  },
+  "AveragePrize": 19.8,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291227420",
+    "Fax": "(351) 291227720"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700080945",
+  "HotelDistance": {
+    "Distance": 13,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.64905,
+  "Longitude": -16.90358,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/D869B1296F504C6AA8FAE538E93755AB",
+      "Category": "ROOM"
+    }
+  ],
+  "Name": "Residencial Funchal",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af009100"
+  },
+  "ExternalHotelId": "HSFNCACX",
+  "Address": {
+    "Lines": [
+      "ESTRADA MONUMENTAL, 316"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9004-529"
+  },
+  "AveragePrize": 81,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291765197",
+    "Fax": "(351) 291765950"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700001371",
+  "HotelDistance": {
+    "Distance": 14,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.6351,
+  "Longitude": -16.9325,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/42D08BF6E5214F04BA655C898277BF49",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Alto Lido",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af009102"
+  },
+  "ExternalHotelId": "HSFNCACT",
+  "Address": {
+    "Lines": [
+      "ESTRADA MONUMENTAL, 256"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9004-539"
+  },
+  "AveragePrize": 68,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291701570",
+    "Fax": "(351) 291765441"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700001389",
+  "HotelDistance": {
+    "Distance": 14,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.63857,
+  "Longitude": -16.92927,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/B34FEA0686144A018CCC259FDE593911",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Girassol",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af009104"
+  },
+  "ExternalHotelId": "HSFNCACW",
+  "Address": {
+    "Lines": [
+      "RUA QUINTA CALACA, 1"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9004-530"
+  },
+  "AveragePrize": 90,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291766260",
+    "Fax": "(351) 291764245"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700001373",
+  "HotelDistance": {
+    "Distance": 14,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.63629,
+  "Longitude": -16.93959,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/B0A8F6081D7B436BBC3F2F521E733161",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Baía Azul",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af009106"
+  },
+  "ExternalHotelId": "HSFNCACZ",
+  "Address": {
+    "Lines": [
+      "RUA DO CABRESTANTE, 25"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9000-105"
+  },
+  "AveragePrize": 64,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291710100",
+    "Fax": "(351) 291710108"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700043726",
+  "HotelDistance": {
+    "Distance": 14,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.63403,
+  "Longitude": -16.94179,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/5F61E7F6EFA44F148747FA0C845E4A81",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Golden Residence (Sea View Rooms)",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af009108"
+  },
+  "ExternalHotelId": "HSFNCAET",
+  "Address": {
+    "Lines": [
+      "RUA DA AMARGURA"
+    ],
+    "CityName": "MACHICO",
+    "CountryCode": "PT",
+    "PostalCode": "9200-085"
+  },
+  "AveragePrize": 37,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291968120",
+    "Fax": "(351) 291966050"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700050384",
+  "HotelDistance": {
+    "Distance": 17,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.71761,
+  "Longitude": -16.76767,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/79657900F1314C0DA2A6B48404A10F67",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Residencial Amparo",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af00910a"
+  },
+  "ExternalHotelId": "HSFNCADB",
+  "Address": {
+    "Lines": [
+      "QUINTA DR. AMERICO DURAO"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9100-018"
+  },
+  "AveragePrize": 176,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291520290",
+    "Fax": "(351) 291524414"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "501424831",
+  "HotelDistance": {
+    "Distance": 17,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.69051,
+  "Longitude": -16.77672,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/AB2BDE863484457DA5EB930DB629194C",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Albatroz Hotel",
+  "Rating": "5",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dce61af104f6af00910c"
+  },
+  "ExternalHotelId": "HSFNCACF",
+  "Address": {
+    "Lines": [
+      "VILA DO PORTO MONIZ"
+    ],
+    "CityName": "MADEIRA",
+    "CountryCode": "PT",
+    "PostalCode": "9270-095"
+  },
+  "AveragePrize": 51.3,
+  "ChainCode": "HS",
+  "CityCode": "FNC",
+  "Contact": {
+    "Phone": "(351) 291850050",
+    "Fax": "(351) 291853933"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "DupeId": "700017034",
+  "HotelDistance": {
+    "Distance": 24,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 32.86705,
+  "Longitude": -17.16892,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/45430DB1F296448C9273BF3812C9916E",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Euro Moniz",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcf41af104f6af009113"
+  },
+  "ExternalHotelId": "MCSAOAPM",
+  "Address": {
+    "Lines": [
+      "AV MONTEIRO LOBATO S N"
+    ],
+    "CityName": "SAO PAULO",
+    "CountryCode": "BR",
+    "PostalCode": "07190-000"
+  },
+  "AveragePrize": 107.22,
+  "ChainCode": "MC",
+  "CityCode": "SAO",
+  "Contact": {
+    "Phone": "55-11-24686999",
+    "Fax": "55-11-24640594"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "DupeId": "700021824",
+  "HotelDistance": {
+    "Distance": 3.3,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -23.45823,
+  "Longitude": -46.49307,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/62D85E5D6F804B5B8214EB97D0A11E7F",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "SAO PAULO AIRPORT MARRIOTT",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcf41af104f6af009115"
+  },
+  "ExternalHotelId": "RTSAOGUA",
+  "Address": {
+    "Lines": [
+      "R GENERAL OSORIO 19",
+      "CENTRO"
+    ],
+    "CityName": "GUARULHOS",
+    "CountryCode": "BR",
+    "PostalCode": "70240000"
+  },
+  "AveragePrize": 1,
+  "ChainCode": "RT",
+  "CityCode": "SAO",
+  "Contact": {
+    "Phone": "55/11/21595950",
+    "Fax": "55/11/21595951"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "DupeId": "700084411",
+  "HotelDistance": {
+    "Distance": 7.4,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -23.47315,
+  "Longitude": -46.53234,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/BE4655D73EFB4A5EA7AD865907302466",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "ibis Guarulhos",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcf41af104f6af009117"
+  },
+  "ExternalHotelId": "RTGRUGUA",
+  "Address": {
+    "Lines": [
+      "RUA BARAO DE MAUA 450",
+      "CENTRO"
+    ],
+    "CityName": "GUARULHOS",
+    "CountryCode": "BR",
+    "PostalCode": "70120400"
+  },
+  "AveragePrize": 217.26,
+  "ChainCode": "RT",
+  "CityCode": "GRU",
+  "Contact": {
+    "Phone": "55/11/24759988",
+    "Fax": "55/11/24759985"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "DupeId": "700157954",
+  "HotelDistance": {
+    "Distance": 7.4,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -23.47391,
+  "Longitude": -46.53197,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/E8CD5D2373E54C82AF84B2A523A3596E",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Mercure Guarulhos Aeroporto Hotel",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcf41af104f6af009119"
+  },
+  "ExternalHotelId": "RTSAONOR",
+  "Address": {
+    "Lines": [
+      "AV. LUIZ DUMONT VILLARES 400",
+      "SANTANA"
+    ],
+    "CityName": "SAO PAULO",
+    "CountryCode": "BR",
+    "PostalCode": "02085000"
+  },
+  "AveragePrize": 199.5,
+  "ChainCode": "RT",
+  "CityCode": "SAO",
+  "Contact": {
+    "Phone": "55/11/29728111",
+    "Fax": "55/11/29728111"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "DupeId": "700040128",
+  "HotelDistance": {
+    "Distance": 16,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -23.49873,
+  "Longitude": -46.61304,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/F2D9A7047A9246069EC8F1B327CA1B25",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Mercure Sao Paulo Nortel Hotel",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcf41af104f6af00911b"
+  },
+  "ExternalHotelId": "BRSAOBRB",
+  "Address": {
+    "Lines": [
+      "ALAMEDA SANTOS 2233"
+    ],
+    "CityName": "SAO PAULO",
+    "CountryCode": "BR",
+    "PostalCode": "01419002"
+  },
+  "AveragePrize": 211.9,
+  "ChainCode": "BR",
+  "CityCode": "SAO",
+  "Contact": {
+    "Phone": "55-11-30692233",
+    "Fax": "55-11-30643344"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "DupeId": "700031368",
+  "HotelDistance": {
+    "Distance": 24,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -23.55904,
+  "Longitude": -46.66171,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/B2BB74C8E3AD4796802CB992681865FB",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "RENAISSANCE SAO PAULO HOTEL",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcf41af104f6af00911d"
+  },
+  "ExternalHotelId": "RTSAOIBI",
+  "Address": {
+    "Lines": [
+      "RUA EDUARDO VIANA 163"
+    ],
+    "CityName": "SAO PAULO",
+    "CountryCode": "BR",
+    "PostalCode": "01133-040"
+  },
+  "AveragePrize": 199.2,
+  "ChainCode": "RT",
+  "CityCode": "SAO",
+  "Contact": {
+    "Phone": "55/11/33937300",
+    "Fax": "55/11/33937374"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "DupeId": "700040163",
+  "HotelDistance": {
+    "Distance": 21,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -23.51876,
+  "Longitude": -46.65482,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/3C777DA906D143F1A5E102CCB8BF632E",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "ibis Sao Paulo Expo",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcf41af104f6af00911f"
+  },
+  "ExternalHotelId": "RTSAOCON",
+  "Address": {
+    "Lines": [
+      "R MARTINS FONTES 71",
+      "CENTRO"
+    ],
+    "CityName": "SAO PAULO",
+    "CountryCode": "BR",
+    "PostalCode": "01050030"
+  },
+  "AveragePrize": 686.7,
+  "ChainCode": "RT",
+  "CityCode": "SAO",
+  "Contact": {
+    "Phone": "55/11/28027000",
+    "Fax": "55/11/28027053"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "DupeId": "700040130",
+  "HotelDistance": {
+    "Distance": 22,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -23.54852,
+  "Longitude": -46.64327,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/6F731723D1994C5D9CA9EBD7F58640BD",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Novotel Sao Paulo Jaragua Conventions",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dcf71af104f6af009124"
+  },
+  "ExternalHotelId": "RTRIOPAR",
+  "Address": {
+    "Lines": [
+      "RUA SOROCABA 305"
+    ],
+    "CityName": "RIO DE JANEIRO",
+    "CountryCode": "BR",
+    "PostalCode": "22271110"
+  },
+  "AveragePrize": 319.2,
+  "ChainCode": "RT",
+  "CityCode": "RIO",
+  "Contact": {
+    "Phone": "55/21/22669200",
+    "Fax": "55/21/22669240"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0e"
+  },
+  "DupeId": "700040138",
+  "HotelDistance": {
+    "Distance": 5.5,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -22.95294,
+  "Longitude": -43.18987,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/968337EB6E87453797BC9E853BB179F3",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Mercure Rio de Janeiro Botafogo Hotel",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd041af104f6af00912a"
+  },
+  "ExternalHotelId": "RTFORIBI",
+  "Address": {
+    "Lines": [
+      "RUA DR ATUALPA BARBOSA LIMA 660",
+      "PRAIA DE IRACEMA"
+    ],
+    "CityName": "FORTALEZA",
+    "CountryCode": "BR",
+    "PostalCode": "60060370"
+  },
+  "AveragePrize": 132.8,
+  "ChainCode": "RT",
+  "CityCode": "FOR",
+  "Contact": {
+    "Phone": "55/85/30522450",
+    "Fax": "55/85/30522470"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c10"
+  },
+  "DupeId": "700040168",
+  "HotelDistance": {
+    "Distance": 2.3,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -3.72395,
+  "Longitude": -38.50885,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/5A6E9EEC30AA4E14B7CB2A31C318D582",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "ibis Fortaleza",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd041af104f6af00912c"
+  },
+  "ExternalHotelId": "GTFORTIN",
+  "Address": {
+    "Lines": [
+      "AV ABOLICAO 3340"
+    ],
+    "CityName": "FORTALEZA",
+    "CountryCode": "BR",
+    "PostalCode": "60165081"
+  },
+  "AveragePrize": 261,
+  "ChainCode": "GT",
+  "CityCode": "FOR",
+  "Contact": {
+    "Phone": "55-85-3533 6100",
+    "Fax": "55-85-3533 6101"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c10"
+  },
+  "DupeId": "700039154",
+  "HotelDistance": {
+    "Distance": 3.7,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -3.7273,
+  "Longitude": -38.49255,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/9B26CCE9D78B4E7A84FBF967DBCF53B6",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "TULIP INN SAINT MARTIN",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd041af104f6af00912e"
+  },
+  "ExternalHotelId": "RTFORMEI",
+  "Address": {
+    "Lines": [
+      "RUA JOAQUIM NABUCO 166"
+    ],
+    "CityName": "FORTALEZA",
+    "CountryCode": "BR",
+    "PostalCode": "60125120"
+  },
+  "AveragePrize": 275.1,
+  "ChainCode": "RT",
+  "CityCode": "FOR",
+  "Contact": {
+    "Phone": "55/85/34863000",
+    "Fax": "55/85/34863003"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c10"
+  },
+  "DupeId": "700045932",
+  "HotelDistance": {
+    "Distance": 3.1,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": -3.72693,
+  "Longitude": -38.49882,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/38EDF67E9B5B4950ABDDC3C89012E6A8",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Mercure Fortaleza Meireles Hotel",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd131af104f6af009135"
+  },
+  "ExternalHotelId": "BRNAPBRB",
+  "Address": {
+    "Lines": [
+      "VIA PONTE DI TAPPIA 25           "
+    ],
+    "CityName": "NAPLES",
+    "CountryCode": "IT",
+    "PostalCode": "80133"
+  },
+  "AveragePrize": 156,
+  "ChainCode": "BR",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "39-081-7970001",
+    "Fax": "39-081-5525868"
+  },
+  "Description": {
+    "Lang": null,
+    "Text": null
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700026261",
+  "HotelDistance": {
+    "Distance": 0.1,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.8412,
+  "Longitude": 14.25056,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/BD08833C5250451C86891D2E9B471EAD",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "RENAISSANCE NAPLES HOTEL",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd131af104f6af009137"
+  },
+  "ExternalHotelId": "HSNAPALB",
+  "Address": {
+    "Lines": [
+      "VIA CHIAIA 79"
+    ],
+    "CityName": "NEAPEL",
+    "CountryCode": "IT",
+    "PostalCode": "80121"
+  },
+  "AveragePrize": 59,
+  "ChainCode": "HS",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "(39) 081410059",
+    "Fax": "(39) 08172011"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Are you looking for a centrally located hotel in Naples? Then, the Plebiscito Hotel Residence Aparthotel is the right choice for you. Functionally furnished rooms that are decorated with an eye to details feature modern amenities including complimentary Wi-Fi. Parking facilities are at your disposal within 10 walking minutes from the hotel."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700142514",
+  "HotelDistance": {
+    "Distance": 0.8,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.83602,
+  "Longitude": 14.24562,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/3489103FF41E4281A3FC28FF937695EF",
+      "Category": "RESTAURANT"
+    }
+  ],
+  "Name": "Plebiscito Hotel Residence Aparthotel",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd131af104f6af009139"
+  },
+  "ExternalHotelId": "HSNAPALS",
+  "Address": {
+    "Lines": [
+      "VIA MEZZOCANNONE 109E"
+    ],
+    "CityName": "NEAPEL",
+    "CountryCode": "IT",
+    "PostalCode": "80134"
+  },
+  "AveragePrize": 35,
+  "ChainCode": "HS",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "(39) 0815517254",
+    "Fax": "(39) 0815522212"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The hotel Europeo is a small and charming hotel in the heart of Naples offering tastefully decorated rooms with many amenities such as free Wi-Fi. If available, HRS guests benefit from a free upgrade to the next room category."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700034411",
+  "HotelDistance": {
+    "Distance": 0.8,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.84772,
+  "Longitude": 14.25564,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/B4E664074AE248148E70EAA491614418",
+      "Category": "LOBBY"
+    }
+  ],
+  "Name": "Europeo Sea Hotels",
+  "Rating": "1",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd131af104f6af00913b"
+  },
+  "ExternalHotelId": "HSNAPAIN",
+  "Address": {
+    "Lines": [
+      "VIA FRANCESCO DEL GIUDICE 13"
+    ],
+    "CityName": "NEAPEL",
+    "CountryCode": "IT",
+    "PostalCode": "80128"
+  },
+  "AveragePrize": 41.6,
+  "ChainCode": "HS",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "(39) 0814420815",
+    "Fax": "(39) 0814420819"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "After a sightseeing tour of the city, the friendly and well-equipped rooms in the Hotel Neapolis invite guests to relax and surf the web. In addition to a breakfast, guests may enjoy delicious Mediterranean cuisine in the restaurant and after a meeting in the multifunctional conference room, the hotel bar offers true relaxation."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700017187",
+  "HotelDistance": {
+    "Distance": 1.1,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.85047,
+  "Longitude": 14.25465,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/8A94E62E49984A6AAD8AB2047BEF108E",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Neapolis",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd131af104f6af00913d"
+  },
+  "ExternalHotelId": "HSNAPAJJ",
+  "Address": {
+    "Lines": [
+      "VIA PASQUALE STANISLAO MANCINI 11"
+    ],
+    "CityName": "NEAPEL",
+    "CountryCode": "IT",
+    "PostalCode": "80139"
+  },
+  "AveragePrize": 200,
+  "ChainCode": "HS",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "(39) 0815630656",
+    "Fax": "(39) 0815631750"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The family-run Hotel Garibaldi in Naples welcomes its guests to a pleasant atmosphere. Step into the charming hotel lobby with its stairs with woodcarvings and impressive statues. Cosy rooms offer all modern comforts. In the morning, a continental breakfast including typical Neapolitan pastries is served by the hospitable staff of the Hotel Garibaldi."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700078673",
+  "HotelDistance": {
+    "Distance": 1.8,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.8521,
+  "Longitude": 14.26694,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/FA74FC2A7559409F996491F05FF5474B",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Garibaldi",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd131af104f6af00913f"
+  },
+  "ExternalHotelId": "RTNAPMGA",
+  "Address": {
+    "Lines": [
+      "VIA CARBONARA 112"
+    ],
+    "CityName": "NAPOLI",
+    "CountryCode": "IT",
+    "PostalCode": "80139"
+  },
+  "AveragePrize": 280,
+  "ChainCode": "RT",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "39/081/0160111",
+    "Fax": "39/081/0176535"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Palazzo Caracciolo is located in the 13th-century historic district at the heart of Naples, and is part of the MGallery collection. The building is steeped in history, having not only been the residence of the aristocratic Caracciolo family, but alsothat of Napoleonic general and king of Naples, Joachim Murat. The architecture of the hotel is imbued with the warmth and beauty of Naples. Discounted car park 328 yards (300 m) from the hotel."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700134838",
+  "HotelDistance": {
+    "Distance": 1.8,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.85514,
+  "Longitude": 14.26105,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/868092B67A614DAD84CA439ABF233953",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Palazzo Caracciolo Napoli - MGallery Collection",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd131af104f6af009141"
+  },
+  "ExternalHotelId": "RTNAPGAR",
+  "Address": {
+    "Lines": [
+      "VIA G RICCIARDI 33"
+    ],
+    "CityName": "NAPOLI",
+    "CountryCode": "IT",
+    "PostalCode": "80142"
+  },
+  "AveragePrize": 44,
+  "ChainCode": "RT",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "39/081/6908111",
+    "Fax": "39/081/5635906"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The ibis Styles Napoli Garibaldi hotel is a 3-star hotel that boasts 88 air-conditioned and soundproofed rooms with minibar, satellite TV, direct-dial telephone and complimentary Internet connection. The hotel is situated in the city center, 2.2 miles (3.5 km) from the airport and just 164 yards (150 m) from the Stazione Centrale train station. The hotel is ideally located for business trips as well as for visiting Naples and the surrounding area. Public, paying car park near the hotel."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700019665",
+  "HotelDistance": {
+    "Distance": 1.9,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.85064,
+  "Longitude": 14.2703,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/54ABC94765AC4D9B8A181854B00D0509",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "ibis Styles Napoli Garibaldi (ex MERCURE)",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd131af104f6af009143"
+  },
+  "ExternalHotelId": "BWNAP050",
+  "Address": {
+    "Lines": [
+      "VIA CATULLO 11"
+    ],
+    "CityName": "NAPOLI",
+    "CountryCode": "IT",
+    "PostalCode": "80122"
+  },
+  "AveragePrize": 108,
+  "ChainCode": "BW",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "+39 081 2475111",
+    "Fax": "+39 081 7613449"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Best Western Hotel Paradiso is located in one of the most enchanting areas of Naples, the charming hill of Posillipo overlooking the magnificent gulf, the Vesuvio and islands. The hotel is well positioned, just a few minutes from Mergellina Harbour, where you can take the hydrofoil to Ischia, Procida, Capri. Elegantly furnished rooms, most of them with balcony and view over the gulf. At the nice terrace restaurant Paradisoblanco on the top floor, with panoramic view, you can taste the savory local cuisine. Possibility of accommodation in room only (breakfast excluded)."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700005343",
+  "HotelDistance": {
+    "Distance": 3.6,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.82442,
+  "Longitude": 14.21539,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/1CB9949F8AB14801B607F75652D526B4",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Best Western Hotel Paradiso",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af00914d"
+  },
+  "ExternalHotelId": "HSTRNAMP",
+  "Address": {
+    "Lines": [
+      "VIA NIZZA 9"
+    ],
+    "CityName": "TURIN",
+    "CountryCode": "IT",
+    "PostalCode": "10125"
+  },
+  "AveragePrize": 70,
+  "ChainCode": "HS",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "(39) 0116690516",
+    "Fax": "(39) 0116505963"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Charmingly traditional, the Hotel Nizza warmly welcomes its guests to Turin. Experience a wealth of premium amenities, including complimentary internet access in the cosily furnished rooms. Guests will wake each morning to a delicious breakfast. Additionally, the hotel provides fully equipped conference facilities."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700168500",
+  "HotelDistance": {
+    "Distance": 1.9,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.06081,
+  "Longitude": 7.67989,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/96BEF44CACB740AF84AA20132E14D3F3",
+      "Category": "LOBBY"
+    }
+  ],
+  "Name": "Nizza",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af00914f"
+  },
+  "ExternalHotelId": "RTTRNMER",
+  "Address": {
+    "Lines": [
+      "VIA NIZZA 11"
+    ],
+    "CityName": "TORINO",
+    "CountryCode": "IT",
+    "PostalCode": "10125"
+  },
+  "AveragePrize": 112,
+  "ChainCode": "RT",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "39/011/6680273",
+    "Fax": "39/011/6599572"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The hotel has 60 rooms, including 7 suites, equipped with all the comforts of a 4-star hotel. Built within a construction dating back to the late 800s, adjacent to the Porta Nuova train station and just moments from the historic center, in the heart of the city's artistic and cultural scene. All this makes it the perfect location for business travel or a vacation. All rooms are equipped with WIFI, satellite LCD TV, kettle, telephone in bathroom and wood floors. The hotel also has an American Bar."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700053226",
+  "HotelDistance": {
+    "Distance": 1.9,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.0606,
+  "Longitude": 7.67904,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/D7CC196CB5F74DB3A82A0D588111BF45",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Mercure Torino Crystal Palace",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af009151"
+  },
+  "ExternalHotelId": "BWTRN103",
+  "Address": {
+    "Lines": [
+      "VIA MENTANA 3"
+    ],
+    "CityName": "TORINO",
+    "CountryCode": "IT",
+    "PostalCode": "10133"
+  },
+  "AveragePrize": 314,
+  "ChainCode": "BW",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "39-011-6604700",
+    "Fax": "39-011-6604912"
+  },
+  "Description": {
+    "Lang": null,
+    "Text": null
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700057173",
+  "HotelDistance": {
+    "Distance": 2.5,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.05644,
+  "Longitude": 7.69468,
+  "Media": [
+    {
+      "Uri": "http://pdt.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/8E0193EABCB546AFBD51BFA31163CACE",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "BEST WESTERN HOTEL CRIMEA",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af009153"
+  },
+  "ExternalHotelId": "BWTRN311",
+  "Address": {
+    "Lines": [
+      "VIA NIZZA 28"
+    ],
+    "CityName": "TORINO",
+    "CountryCode": "IT",
+    "PostalCode": "10125"
+  },
+  "AveragePrize": 89,
+  "ChainCode": "BW",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "+39 011 6507707",
+    "Fax": "+39 011 6507700"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Best Western Plus Executive Hotel and Suites is a high-tech modern building with 73 rooms and suites all with the comforts of living areas and bedrooms, providing wide space for even the most distinguished traveler. The Best Western Plus Executive Hotel and Suites is strategically located in the center of Turin, close to the Central Railway Station Porta Nuova and Via Roma, the main street, few steps from the Underground Station Marconi, which quickly connects the hotel to all the attractions of the city of Torino, also Lingotto Congress Centre and the Olympic Stadium are reachable in few minutes. Whether you travel for business or leisure you need space to spread out, time to gather thoughts and comfort to work at your peak or simply relax. You will be completely immersed in a welcoming atmosphere and your stay will be luxurious but informal, with all modern conveniences at hand. A tasty and satisfying day starts in the morning with our breakfast buffet, free bar corner in all rooms, Internet reliable cable and free Wi-Fi, free fitness facilities and open air solarium with a small hydro-massage pool, rental bike, free espresso and tea buffet 24 hours, business office, meeting rooms with up to 120 seats and a three-floor parking lot."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700041063",
+  "HotelDistance": {
+    "Distance": 2.5,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.05554,
+  "Longitude": 7.67615,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/098099CFB8C144E2A16BF584E7802F26",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Best Western Plus Executive Hotel and Suites",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af009155"
+  },
+  "ExternalHotelId": "RTTRNNOV",
+  "Address": {
+    "Lines": [
+      "CORSO GIULIO CESARE 338 26"
+    ],
+    "CityName": "TORINO",
+    "CountryCode": "IT",
+    "PostalCode": "10154"
+  },
+  "AveragePrize": 139,
+  "ChainCode": "RT",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "39/011/2601211",
+    "Fax": "39/011/200574"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "4-star hotel with 162 rooms, including 18 Executive rooms, all with anti-allergy carpet. Located 3.1 miles (5 km) from the city center and train stations, 0.9 miles (1.5 km) from the highway and 6.2 miles (10 km) from the airport and Lingotto exhibition center. Perfect for any kind of stay: 6 meeting rooms (seating 220) with natural light, CCTV-monitored car park, fitness center, outdoor pool, bar and restaurant, free WIFI. For families, the hotel offers rooms for 2 adults and 2 children and a play area"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700038163",
+  "HotelDistance": {
+    "Distance": 3.8,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.10765,
+  "Longitude": 7.70629,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/71701992CBFA47BEA1DBF530CC83C52B",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Novotel Torino Corso Giulio Cesare",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af009157"
+  },
+  "ExternalHotelId": "HSTRNAMZ",
+  "Address": {
+    "Lines": [
+      "VIA RIBORDONE 12"
+    ],
+    "CityName": "TORINO",
+    "CountryCode": "IT",
+    "PostalCode": "10156"
+  },
+  "AveragePrize": 48,
+  "ChainCode": "HS",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "(39) 0112243024",
+    "Fax": "(39) 0112243041"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The social and ecofriendly hotel Sharing offers suitable accommodation for all types of travellers. There are fully equipped apartments with kitchen and living room as well as spacious guestrooms that come with all desirable amenities, including free Wi-Fi. At the on-site restaurant, freshly prepared dishes of local produce can be ordered."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700168511",
+  "HotelDistance": {
+    "Distance": 4.5,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.11472,
+  "Longitude": 7.70711,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/9694E8CF8E684BCF8121FE6614CCDF11",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Sharing",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af009159"
+  },
+  "ExternalHotelId": "ARTRNTOR",
+  "Address": {
+    "Lines": [
+      "VIA BISALTA 11 "
+    ],
+    "CityName": "TORINO",
+    "CountryCode": "IT",
+    "PostalCode": "10126"
+  },
+  "AveragePrize": 105.7,
+  "ChainCode": "AR",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "39-011-6395091",
+    "Fax": "39-011-6677822"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "This is a hotel refurbishment that joins traditional architecture and modern comfort. The location in front of the Lingotto trade fair centre ensures a perfect position in the city’s main business area.\r\r\rThis Hotel has a total of 89 rooms. All rooms are equipped with top facilities, such as high speed WIFI Internet connection and plasma screen television with more than 20 channels. They also offer special details to satisfy the most demanding of guests, such as special reading lamps on the bed head, smoker/non-smoker rooms, room service and personal climate control.\r\rAmong other facilities and services, the hotel offers room service and a laundry service, gardens, outdoor terrace, fitness centre, Massages Service, Turkish bath, SPA, safety-box in the rooms, safety-box at the front desk, a la Carte Breakfast, free shuttle to the city centre – weekend, and a restaurant, ‘Il Cavalieri’, a place with an elegant decoration and a minimalist design in which clients can enjoy genuine and typically Mediterranean cuisine and an interesting selection of regional dishes.\r\rAC Torino is perfect for large company and family events. Precisely with such events in mind, the hotel has a large banquet hall that sits 200 people, and three large meeting rooms. All of them are equipped with the latest technology and the hotel also offers a complete range of Business Facilities such as computer rental, document translation, and the possibility of contracting of hostesses and secretaries, etc."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700042966",
+  "HotelDistance": {
+    "Distance": 4.8,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.03629,
+  "Longitude": 7.66757,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/387E6EC6BB1B45BF972167D33E2D556D",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "AC BY MARRIOTT HOTEL TORINO",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af00915b"
+  },
+  "ExternalHotelId": "GTTRNC02",
+  "Address": {
+    "Lines": [
+      "CORSO ALLAMANDO 153"
+    ],
+    "CityName": "TURIN",
+    "CountryCode": "IT",
+    "PostalCode": "10098"
+  },
+  "AveragePrize": 76,
+  "ChainCode": "GT",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "39-011-9517811",
+    "Fax": "0039-011-9539955"
+  },
+  "Description": {
+    "Lang": null,
+    "Text": null
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700049419",
+  "HotelDistance": {
+    "Distance": 7.3,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.05114,
+  "Longitude": 7.59983,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/8381D955CAD849EAB24761516346F689",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "TULIP INN TURIN WEST",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af00915d"
+  },
+  "ExternalHotelId": "HSTRNAAV",
+  "Address": {
+    "Lines": [
+      "VIA GIORDANO BRUNO 210"
+    ],
+    "CityName": "TORINO",
+    "CountryCode": "IT",
+    "PostalCode": "10134"
+  },
+  "AveragePrize": 63.8,
+  "ChainCode": "HS",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "(39) 011615906",
+    "Fax": "(39) 0116197772"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The family-run Hotel Parco Fiera is cosy hotel with a pleasant atmosphere where business and private travellers feel comfortable. Decorated in warm colours, its comfortably furnished rooms guarantee a restful sleep. In the morning, a rich breakfast buffet is provided. Moreover, the use of Wi-Fi is free for HRS guests."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700168506",
+  "HotelDistance": {
+    "Distance": 5.7,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.0304,
+  "Longitude": 7.65516,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/9AB703B955E844269A6FCDB99A1C8252",
+      "Category": "LOBBY"
+    }
+  ],
+  "Name": "Parco Fiera",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd241af104f6af00915f"
+  },
+  "ExternalHotelId": "GTTRNC01",
+  "Address": {
+    "Lines": [
+      "VIA GUIDO ROSSA 11"
+    ],
+    "CityName": "MONCALIERI",
+    "CountryCode": "IT",
+    "PostalCode": "10024"
+  },
+  "AveragePrize": 59,
+  "ChainCode": "GT",
+  "CityCode": "TRN",
+  "Contact": {
+    "Phone": "39-011-6474404",
+    "Fax": "0039-011-6473187"
+  },
+  "Description": {
+    "Lang": null,
+    "Text": null
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "DupeId": "700049420",
+  "HotelDistance": {
+    "Distance": 12,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 44.97391,
+  "Longitude": 7.7296,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/53A81FB5BF8B4FFF890A4701C54B295A",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "TULIP INN TURIN SOUTH HOTEL",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af009168"
+  },
+  "ExternalHotelId": "HSVRNAGO",
+  "Address": {
+    "Lines": [
+      "PIAZZETTA SCALETTE RUBIANI, 3"
+    ],
+    "CityName": "VERONA",
+    "CountryCode": "IT",
+    "PostalCode": "37121"
+  },
+  "AveragePrize": 110,
+  "ChainCode": "HS",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "(39) 0458006830",
+    "Fax": "(39) 0458010602"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Hotel Bologna in Verona warmly welcomes its guests to an elegant atmosphere. It provides several comfortable and tastefully appointed rooms with free use of Wi-Fi, perfectly suitable for both private and leisure travellers. Delicious dishes are served in the restaurant. Guests may use the bicycle rental service free of charge."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700005457",
+  "HotelDistance": {
+    "Distance": 0.3,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.44,
+  "Longitude": 10.9937,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/573423ED01C146CDA0D6611487FCB49C",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Bologna",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af00916a"
+  },
+  "ExternalHotelId": "HSVRNANL",
+  "Address": {
+    "Lines": [
+      "VICOLO TRE MARCHETTI 3"
+    ],
+    "CityName": "VERONA",
+    "CountryCode": "IT",
+    "PostalCode": "37121"
+  },
+  "AveragePrize": 97,
+  "ChainCode": "HS",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "(39) 0458003554",
+    "Fax": "(39) 0458010862"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The hotel Giulietta e Romeo in Verona provides elegant rooms with free Wi-Fi for an unforgettable stay. A rich breakfast buffet guarantees a pleasant start into the day. The fitness room invites to work out and the bar is the ideal place to chill out while having a drink."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700017189",
+  "HotelDistance": {
+    "Distance": 0.4,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.44022,
+  "Longitude": 10.99469,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/9B5DCA3A5BE44907980B0F605538E226",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Giulietta e Romeo",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af00916c"
+  },
+  "ExternalHotelId": "BWVRN088",
+  "Address": {
+    "Lines": [
+      "VIA DEL PONTIERE 26"
+    ],
+    "CityName": "VERONA",
+    "CountryCode": "IT",
+    "PostalCode": "37122"
+  },
+  "AveragePrize": 88,
+  "ChainCode": "BW",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "39-045-8000154",
+    "Fax": "39-045-8032970"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The best western hotel de capuleti is within a short walk from juliet s tomb and the historical town centre. This completely refurbished hotel offers comfort and friendly atmosphere."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700030158",
+  "HotelDistance": {
+    "Distance": 0.5,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.43468,
+  "Longitude": 10.99658,
+  "Media": [
+    {
+      "Uri": "http://pdt.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/211F606AE7A840DFA76DB58245A10134",
+      "Category": "LOBBY"
+    }
+  ],
+  "Name": "BEST WESTERN PLUS HOTEL DE CAPULETI",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af00916e"
+  },
+  "ExternalHotelId": "OIVRNB5Y",
+  "Address": {
+    "Lines": [
+      "Via Giberti, 7"
+    ],
+    "CityName": "Verona",
+    "CountryCode": "IT",
+    "PostalCode": "37122"
+  },
+  "AveragePrize": 107,
+  "ChainCode": "OI",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "39-045-8006900",
+    "Fax": "39-045-8001955"
+  },
+  "Description": {
+    "Lang": null,
+    "Text": null
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700010328",
+  "HotelDistance": {
+    "Distance": 0.6,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.43401,
+  "Longitude": 10.98606,
+  "Media": [
+    {
+      "Uri": "http://pdt.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/15BD620C35A64D35877C9E687536395C",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "HOTEL GIBERTI",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af009170"
+  },
+  "ExternalHotelId": "HSVRNAEF",
+  "Address": {
+    "Lines": [
+      "VIA CARMELITANI SCALZI 5"
+    ],
+    "CityName": "VERONA",
+    "CountryCode": "IT",
+    "PostalCode": "37122"
+  },
+  "AveragePrize": 67.2,
+  "ChainCode": "HS",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "(39) 045590422",
+    "Fax": "(39) 0454851241"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Hotel Scalzi in Verona is a charming city hotel in the heart of Verona. The hotel offers tastefully furnished rooms equipped with all desirable amenities. In the morning, the friendly staff of the Hotel Scalzi serves a tasty breakfast buffet. Moreover, the hotel provides Wi-Fi access."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700098393",
+  "HotelDistance": {
+    "Distance": 0.6,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.43526,
+  "Longitude": 10.9844,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/58507A739EA843FD9E83756B4481EBA6",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Scalzi",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af009172"
+  },
+  "ExternalHotelId": "RTVRNIBI",
+  "Address": {
+    "Lines": [
+      "VIA FERMI 11/C"
+    ],
+    "CityName": "VERONA",
+    "CountryCode": "IT",
+    "PostalCode": "37100"
+  },
+  "AveragePrize": 59,
+  "ChainCode": "RT",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "39/045/8203720",
+    "Fax": "39/045/8203903"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The ibis Verona hotel is 2.5 miles (4 km) from the center of Verona, close to the Fiera di Verona exhibition center, and is easy to access via the A4 highway. The hotel has 145 air-conditioned rooms, including 8 suitable for people with reduced mobility,and a restaurant, terrace and bar serving 24-hour snacks. There are 5 meeting rooms that can be booked for conferences or seminars. Wi-Fi Internet connection available for business travelers. Private, paying indoor car park and public outdoor car park."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700033851",
+  "HotelDistance": {
+    "Distance": 4.4,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.4013,
+  "Longitude": 10.96845,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/0D4E784F50D448A39C664A280AF21911",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "ibis Verona",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af009174"
+  },
+  "ExternalHotelId": "BWVRN326",
+  "Address": {
+    "Lines": [
+      "VIA MONTE PASTELLO 28"
+    ],
+    "CityName": "SAN GIOVANNI LUPATOT",
+    "CountryCode": "IT",
+    "PostalCode": "37057"
+  },
+  "AveragePrize": 216,
+  "ChainCode": "BW",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "+39 0 458754111",
+    "Fax": "+39 0 458754120"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Best Western CTC Hotel Verona is one of Verona's leading 4 star hotels, the best solution for leisure and business travelers. A modern, elegant and comfortable lodging, the hotel is ten minutes away from downtown and connected by a free scheduled shuttle service (reservation at check-in is required). The Best Western CTC Hotel Verona offers 203 comfortable rooms, including five junior suites, divided into 11 floors. Each room has free Internet Wi-Fi connection, LCD television, furnished mini-bar, individually controlled air conditioning and heating, marble bathroom with toiletries and courtesy amenities. The hotel is strategically located only 200 meters from a big shopping mall and five kilometers from the city center. The railway station of Verona Porta Nuova, Verona Fairground and the Verona Airport are also nearby. All destinations can be easily reached with the use of the bypass, whose entrance is located just 200 meters from the Best Western CTC Hotel. Enjoy your stay."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700018694",
+  "HotelDistance": {
+    "Distance": 4.8,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.39867,
+  "Longitude": 11.01724,
+  "Media": [
+    {
+      "Uri": "http://pdt.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/25A552EF3EA14847AA051ABB739FA40A",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Best Western CTC Hotel Verona",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af009176"
+  },
+  "ExternalHotelId": "BWVRN250",
+  "Address": {
+    "Lines": [
+      "VIA STAZIONE 44"
+    ],
+    "CityName": "LUGAGNANO",
+    "CountryCode": "IT",
+    "PostalCode": "37060"
+  },
+  "AveragePrize": 135,
+  "ChainCode": "BW",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "+39 045 8681033",
+    "Fax": "+39 045 8681046"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Best Western Hotel Antico Termine is a modern building, designed specifically to meet the needs of both cultural tourism and business events. We are located close to the airport and only few minutes from the historical center of Verona. The 76 elegant rooms are fully equipped with the most modern conveniences such as private bathroom, air-conditioning, telephone, color television, mini-bar and safe. The restaurant Ai Dori offers an elegant and refined environment. The congress center offers a full service for any type of meeting or event. The spacious meeting areas are modular and are outfitted with state-of-art audio/visual equipment up to 180 people. A fitness center, swimming pool, car park and large garage are some of the amenities to be enjoyed. Enjoy your stay."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700057041",
+  "HotelDistance": {
+    "Distance": 7.8,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.431,
+  "Longitude": 10.892,
+  "Media": null,
+  "Name": "Best Western Hotel Antico Termine",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af009178"
+  },
+  "ExternalHotelId": "HSVRNAAZ",
+  "Address": {
+    "Lines": [
+      "VIA DANTE ALIGHIERI 8"
+    ],
+    "CityName": "BUSSOLENGO",
+    "CountryCode": "IT",
+    "PostalCode": "37012"
+  },
+  "AveragePrize": 54.32,
+  "ChainCode": "HS",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "(39) 0456700433",
+    "Fax": "(39) 0455112114"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Hotel Krystal in Bussolengo offers its guests modern, functionally equipped rooms. The cosy beauty parlour offers a wide variety of treatments. A conference room for up to 80 persons is available for business events."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700076983",
+  "HotelDistance": {
+    "Distance": 12,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.47071,
+  "Longitude": 10.8471,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/DF25021247874B3AACA3CED58817B200",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Krystal",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af00917a"
+  },
+  "ExternalHotelId": "HSVRNAJN",
+  "Address": {
+    "Lines": [
+      "VIA OSPEDALETTO 57"
+    ],
+    "CityName": "PESCANTINA",
+    "CountryCode": "IT",
+    "PostalCode": "37026"
+  },
+  "AveragePrize": 88,
+  "ChainCode": "HS",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "(39) 0456767300",
+    "Fax": "(39) 0456767301"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Located in a building from the 17th century, the hotel Villa Quaranta Park Hotel Wellness SPA in Pescantina offers elegantly furnished rooms that are equipped with all modern comforts. In the morning, a rich breakfast buffet guarantees a good start into the day. Thermal indoor pools invite to spend relaxing hours."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700017424",
+  "HotelDistance": {
+    "Distance": 14,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.5046,
+  "Longitude": 10.8471,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/147E49F10C95429590F5F17CCD84E410",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Villa Quaranta Park Wellness Hotel SPA",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af00917c"
+  },
+  "ExternalHotelId": "HSVRNAMF",
+  "Address": {
+    "Lines": [
+      "VIA IX MAGGIO 47"
+    ],
+    "CityName": "PARDELLE NOGAROLE ROCCA",
+    "CountryCode": "IT",
+    "PostalCode": "37060"
+  },
+  "AveragePrize": 44.1,
+  "ChainCode": "HS",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "(39) 0457925294",
+    "Fax": "(39) 0457925296"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Set in a historical country house of the 18th century, the ‘excellent’ rated Corte Castelletto offers a welcoming environment for a comfortable stay in Pradelle Nogarole Rocca. Its rooms feature an appealing mix of charming nostalgia and tasteful elegance. In the morning, the friendly staff of the Corte Castelletto serves a tasty breakfast. The lovely terrace with swimming pool promises relaxation and well-being."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700077111",
+  "HotelDistance": {
+    "Distance": 20,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.28248,
+  "Longitude": 10.87232,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/FA4DF475A7614A71B3D371DDC88200EF",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Corte Castelletto",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af00917e"
+  },
+  "ExternalHotelId": "HSVRNAEK",
+  "Address": {
+    "Lines": [
+      "VIA BROLO, 2-A"
+    ],
+    "CityName": "CASTELNUOVO DEL GARDA",
+    "CountryCode": "IT",
+    "PostalCode": "37014"
+  },
+  "AveragePrize": 555,
+  "ChainCode": "HS",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "(39) 0365913540",
+    "Fax": "(39) 04564052020"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Tucked away in a park-like garden area, the hotel Parc Hotel in Castelnuovo del Garda offers friendly and well-equipped rooms. In the restaurant of the Parc Hotel, tasty dishes are served. While your kids make new friends and enjoy games and different types of sport, supervised by the friendly staff, you may enjoy the inviting wellness area with sauna and Jacuzzi."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700029324",
+  "HotelDistance": {
+    "Distance": 24,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.43964,
+  "Longitude": 10.68654,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/3C6282F96B52424385C21E2D7CAC45EB",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Parc Hotel",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af009180"
+  },
+  "ExternalHotelId": "HSVRNAOH",
+  "Address": {
+    "Lines": [
+      "VIA BASTIA, 14"
+    ],
+    "CityName": "VALEGGIO SUL MINCIO",
+    "CountryCode": "IT",
+    "PostalCode": "37067"
+  },
+  "AveragePrize": 950,
+  "ChainCode": "HS",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "(39) 0457950077",
+    "Fax": "(39) 0456371878"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "In the Hotel Bastia in Valeggio sul Mincio, tastefully furnished rooms are at the guests’ disposal. A selection of local and international dishes as well as fine wines is served in the Ristorante Il Gambero. Furthermore, free parking facilities are available."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700139699",
+  "HotelDistance": {
+    "Distance": 22,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.35256,
+  "Longitude": 10.73161,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/0AEEBC7289E04D0DB2D667DB36EFDFEE",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Bastia Hotel - Ristorante Il Gambero",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd341af104f6af009182"
+  },
+  "ExternalHotelId": "BWVRN264",
+  "Address": {
+    "Lines": [
+      "LOCALITA RITONDA 82"
+    ],
+    "CityName": "SAN BONIFACIO",
+    "CountryCode": "IT",
+    "PostalCode": "37047"
+  },
+  "AveragePrize": 198,
+  "ChainCode": "BW",
+  "CityCode": "VRN",
+  "Contact": {
+    "Phone": "+39 0 457610233",
+    "Fax": "+39 0 457613733"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The Best Western Soave Hotel is Located between the province of Verona and Vicenza, a renowned area for wine and food, the hotel is in a strategic position - only 200 meters from the train station and 800 meters from the highway. 113 rooms, equipped with modern technologies: flat TV 21', MP3 reader, SKY Television, Frigobar, air conditioning and Wi-Fi connection. A rich breakfast buffet offers biological products. Restaurant, meeting rooms up to 80 persons, two Internet points, a fitness room and an outdoor swimming pool surrounded by greenery. A colorful and tasty welcome buffet is available each evening at our American Bar. Parking also for bus. Enjoy your stay."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "DupeId": "700145949",
+  "HotelDistance": {
+    "Distance": 24,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 45.4059,
+  "Longitude": 11.2891,
+  "Media": [
+    {
+      "Uri": "http://pdt.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/F1966A3607944619B77B79E9FC8C3AEE",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Best Western Soave Hotel",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dd431af104f6af009189"
+  },
+  "ExternalHotelId": "HSALCACL",
+  "Address": {
+    "Lines": [
+      "C-. PONENT 1 - PLAYA DE LEVANTE"
+    ],
+    "CityName": "CALPE",
+    "CountryCode": "ES",
+    "PostalCode": "3710"
+  },
+  "AveragePrize": 40.11,
+  "ChainCode": "HS",
+  "CityCode": "ALC",
+  "Contact": {
+    "Phone": "(34) 965836101",
+    "Fax": "(34) 965836004"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The spacious rooms of the Hotel AR Roca Esmeralda & Spa in Calpe provide the guests with all desirable amenities and a wonderful view on the sea from the private balcony. In the restaurants, buffets and barbeque specialities are served. The fully equipped spa and wellness areas of the Hotel Roca Esmeralda invite to sports and relaxation."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c18"
+  },
+  "DupeId": "700003563",
+  "HotelDistance": {
+    "Distance": 122,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 38.64983,
+  "Longitude": 0.07435,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/C516EF8430DE4A7580D74FA28CC6798A",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "AR Roca Esmeralda",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009ddde1af104f6af0092a8"
+  },
+  "ExternalHotelId": "RTAGPMAL",
+  "Address": {
+    "Lines": [
+      "PASILLO GUIMBARDA 5"
+    ],
+    "CityName": "MALAGA",
+    "CountryCode": "ES",
+    "PostalCode": "29007"
+  },
+  "AveragePrize": 59,
+  "ChainCode": "RT",
+  "CityCode": "AGP",
+  "Contact": {
+    "Phone": "34/952/070741",
+    "Fax": "34/952/284102"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Our hotel in the center of Málaga is located at the heart of this beautiful city and very close to the main tourist attractions. Its rooms are welcoming and comfortable, equipped with air conditioning, heating, LCD TV and other facilities. The ibis MálagaCentro hotel serves a buffet breakfast every day and offers bar and parking services at very reasonable prices. We are close to the train station and just 6.2 miles (10 km) from the airport. Book now and let us take care of you!"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "DupeId": "700118760",
+  "HotelDistance": {
+    "Distance": 0.6,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.72099,
+  "Longitude": -4.42587,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/A15021685B1C4D3BB7581CAC3D64D379",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "ibis Malaga Centro Ciudad",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009ddde1af104f6af0092ac"
+  },
+  "ExternalHotelId": "ARAGPMGP",
+  "Address": {
+    "Lines": [
+      "CORTINA DEL MUELLE 1"
+    ],
+    "CityName": "MALAGA",
+    "CountryCode": "ES",
+    "PostalCode": "MA 29015"
+  },
+  "AveragePrize": 121,
+  "ChainCode": "AR",
+  "CityCode": "AGP",
+  "Contact": {
+    "Phone": "34-952-215185",
+    "Fax": "34-952-225100"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Ideal for business trips and to enjoy one of the best cultural and leisure offers of the Costa del Sol. Just 5 minutes from the city centre and 15 minutes from Malaga Pablo Ruiz Picasso Airport , the hotel has a restaurant and coffee shop as well as a comfortable and inviting lounge bar. \rThe 214 rooms are wide, welcoming and very comfortable spaces with exclusive details, such as the special reading lamps on the bed head, smoker/non-smoker rooms, room service and personal climate control. Moreover, the hotel provides private parking facilities, A la Carte Breakfast , buffet breakfast, outdoor swimming pool on the 15th floor, restaurant with magnificent views of the Jardines de la Alameda, lounge bar, reading room and 10 meeting rooms with capacity for 170 people and with different capacity equipped with the latest technology."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "DupeId": "700017180",
+  "HotelDistance": {
+    "Distance": 0.1,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.71899,
+  "Longitude": -4.41966,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/E43F711EF6D54C2C8274D700DF5E764A",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "AC BY MARRIOTT MALAGA PALACIO",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009ddde1af104f6af0092b0"
+  },
+  "ExternalHotelId": "RTAGPIBI",
+  "Address": {
+    "Lines": [
+      "C- HORACIO QUIROGA S-N",
+      "AREA COMERCIAL VALDICIO"
+    ],
+    "CityName": "MALAGA",
+    "CountryCode": "ES",
+    "PostalCode": "29004"
+  },
+  "AveragePrize": 47.2,
+  "ChainCode": "RT",
+  "CityCode": "AGP",
+  "Contact": {
+    "Phone": "34/952/105155",
+    "Fax": "34/952/170505"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Our ibis hotel at Malaga airport is easily accessible from the terminal. It is an ideal place to relax during your travels. Located just 5 minutes from Los Álamos and La Malagueta beaches, its welcoming rooms are specially designed to ensure guests enjoymaximum comfort at the best price. Equipped with TV, WIFI and air conditioning - essential in the hot Andalusian summers. Spend a few days at the ibis Aeropuerto de Malaga hotel and there's no need to worry about missing your flight!"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "DupeId": "700059544",
+  "HotelDistance": {
+    "Distance": 4.9,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.69015,
+  "Longitude": -4.46109,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/5D23834CE5D349F3AB035706FFDDB2DB",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "ibis Malaga Aeropuerto Avenida Velazquez",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009ddde1af104f6af0092b4"
+  },
+  "ExternalHotelId": "NNAGPC01",
+  "Address": {
+    "Lines": [
+      "212 AVENIDA DE VELAZQUEZ"
+    ],
+    "CityName": "MALAGA",
+    "CountryCode": "ES",
+    "PostalCode": "29004"
+  },
+  "AveragePrize": 56,
+  "ChainCode": "NN",
+  "CityCode": "AGP",
+  "Contact": {
+    "Phone": "34-952-173757",
+    "Fax": "34-952-240710"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Located at 2 km from the Picasso museum, from the most beautiful beaches in Spain Los Alamos and Malagueta, from the Exhibition center and from the station. \r\nWith 114 comfortable and well-equipped rooms, Campanile has everything to help you relax, move freely and work efficiently if you here on business. For your refreshment, a courtesy tray is available daily in your room.\r\n4 rooms, adapted with accessible facilities. \r\nFor your comfort, each room has quality bedding, a bathroom with either bath or walk in shower, air conditioning, a television with Freeview channels, a work space, telephone with a direct line and Wi Fi connexion.\r\nFrom 6:30 am, have a nutritious and tasty start to your day with our a selection of fruits, cereals, pastries and traditional English breakfast.\r\nWe offer you a selection of seasonal ingredients that guarantee quality and freshness all year-round. Discover our many choices of meat and fish and our daily specials. Don't forget our generous hors d’œuvre buffet.\r\nRestaurant & Bar open every day from 12pm to 10pm.\r\nServices :free Wi-Fi,dry-cleaning service (additional charge),reception open 24 hours (night porter),free car park (inc. coaches),bar, 2 meeting rooms with a maximum capacity of 50 people,fully equipped seminar space with Wi-Fi connection, flip chart, data projector, TV, animals accepted."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "DupeId": "700117719",
+  "HotelDistance": {
+    "Distance": 7.3,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.67317,
+  "Longitude": -4.47715,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/9DEEB3B2ACE345F2A43882935CA7535A",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "CAMPANILE MALAGA AIRPORT",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009ddde1af104f6af0092b8"
+  },
+  "ExternalHotelId": "SMAGPPRI",
+  "Address": {
+    "Lines": [
+      "PASEO COLORADO,26"
+    ],
+    "CityName": "TORREMOLINOS",
+    "CountryCode": "ES",
+    "PostalCode": "29620"
+  },
+  "AveragePrize": 53,
+  "ChainCode": "SM",
+  "CityCode": "AGP",
+  "Contact": {
+    "Phone": "34-952-952384100",
+    "Fax": "34-952-388075"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "DupeId": "700001646",
+  "HotelDistance": {
+    "Distance": 12,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.63247,
+  "Longitude": -4.49185,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/FCCC93E1F9A94D2F98B49D6FDCAFC3CE",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "SOL PRINCIPE",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009ddde1af104f6af0092bc"
+  },
+  "ExternalHotelId": "HSUTLAAU",
+  "Address": {
+    "Lines": [
+      "AVENIDA DE LAS AMERICAS S-N"
+    ],
+    "CityName": "ALHAURIN DE LA TORRE",
+    "CountryCode": "ES",
+    "PostalCode": "29130"
+  },
+  "AveragePrize": 62.1,
+  "ChainCode": "HS",
+  "CityCode": "UTL",
+  "Contact": {
+    "Phone": "(34) 952410203",
+    "Fax": "(34) 952414579"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Whether you are on business or on vacation, the charming hotel welcomes its travellers into a comfortable ambience which makes you feel at home. Enjoy a pleasant stay in the spacious, elegantly designed rooms and discover the lovely premises which feature a first-class restaurant, well-kept gardens and a pompous banquet hall."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "DupeId": "700049518",
+  "HotelDistance": {
+    "Distance": 12,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.67651,
+  "Longitude": -4.54563,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/5592C11C9CED486C83C185A9C1F9D466",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Cortijo Chico",
+  "Rating": "4",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dde91af104f6af0092c4"
+  },
+  "ExternalHotelId": "WVXVAAAC",
+  "Address": {
+    "Lines": [
+      "OSBOURNE ST. BREDBURY"
+    ],
+    "CityName": "STOCKPORT",
+    "CountryCode": "GB",
+    "PostalCode": "SK6 2DH"
+  },
+  "AveragePrize": 89,
+  "ChainCode": "WV",
+  "CityCode": "XVA",
+  "Contact": {
+    "Phone": "44-161-4307421",
+    "Fax": "44-161-4305079"
+  },
+  "Description": {
+    "Lang": null,
+    "Text": null
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1c"
+  },
+  "DupeId": "501426556",
+  "HotelDistance": {
+    "Distance": 1.4,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.69823,
+  "Longitude": -6.12293,
+  "Media": null,
+  "Name": "BREDBURY HALL HOTEL",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dde91af104f6af0092c8"
+  },
+  "ExternalHotelId": "RTXRYIBI",
+  "Address": {
+    "Lines": [
+      "C RODRIGO DE JEREZ 5 N",
+      "ESQ AUTOVIA DE CADIZ"
+    ],
+    "CityName": "JEREZ DE LA FRONTERA",
+    "CountryCode": "ES",
+    "PostalCode": "11408"
+  },
+  "AveragePrize": 37.5,
+  "ChainCode": "RT",
+  "CityCode": "XRY",
+  "Contact": {
+    "Phone": "34/956/353233",
+    "Fax": "34/956/140900"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Our ibis hotel in Jerez de la Frontera enjoys an excellent location, 2 minutes from the center of Jerez, 15 minutes from the beaches of Puerto de Santa María, 5 miles (8 km) from the airport and close to the Alcázar de Jerez. The rooms are ideal for a relaxing stay, equipped with air conditioning, television, heating and WIFI, in addition to other facilities. In Jerez de la Frontera, the ibis hotel also offers guests a private parking service and free outdoor pool."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1c"
+  },
+  "DupeId": "700059542",
+  "HotelDistance": {
+    "Distance": 2.6,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.67211,
+  "Longitude": -6.1527,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/372E44FFA309466C978DC3D31EC63ECB",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "ibis Jerez de La Frontera",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dde91af104f6af0092cc"
+  },
+  "ExternalHotelId": "HSPXSAAO",
+  "Address": {
+    "Lines": [
+      "ALLE DE LA CORREDERA 83"
+    ],
+    "CityName": "ARCOS DE LA FRONTERA",
+    "CountryCode": "ES",
+    "PostalCode": "11630"
+  },
+  "AveragePrize": 40,
+  "ChainCode": "HS",
+  "CityCode": "PXS",
+  "Contact": {
+    "Phone": "(34) 956700057",
+    "Fax": "(34) 956703661"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "Occupying a beautifully restored 19th century inn, the hotel La Fonda features a lovely wooden gallery overlooking the delightfully planted Andalusian courtyard. Its romantically decorated rooms with wrought-iron bedsteads and leather arm chairs provide a charming break for the night. In addition, guests benefit from free Wi-Fi access."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1c"
+  },
+  "DupeId": "700041544",
+  "HotelDistance": {
+    "Distance": 30,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.75078,
+  "Longitude": -5.81239,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/837CBAEF6BA94C5EB9870F7BE5BCCF7A",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "La Fonda",
+  "Rating": "1",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6009dde91af104f6af0092d0"
+  },
+  "ExternalHotelId": "HSXRYADN",
+  "Address": {
+    "Lines": [
+      "CALLE LA TORRE S-N"
+    ],
+    "CityName": "BENALUP-CASAS VIEJAS",
+    "CountryCode": "ES",
+    "PostalCode": "11190"
+  },
+  "AveragePrize": 89.6,
+  "ChainCode": "HS",
+  "CityCode": "XRY",
+  "Contact": {
+    "Phone": "(34) 956429100",
+    "Fax": "(34) 95629119"
+  },
+  "Description": {
+    "Lang": "en",
+    "Text": "The luxurious Boutique Hotel Fairplay Golf Hotel & Spa in Cadiz is the ideal choice for golf players and guests with expensive tastes. Lovingly decorated rooms in appealing colourful design include modern comforts like free Wi-Fi. Theme restaurants like the ASIA in Zen style or the beautiful French brasserie by the pool overlooking the valley serve excellent dishes and are a feast to the eye. Furthermore, the Fairplay Golf Hotel & Spa offers a huge spa centre."
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1c"
+  },
+  "DupeId": "700044105",
+  "HotelDistance": {
+    "Distance": 48,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.33914,
+  "Longitude": -5.81706,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/96105069F8A54ACB8F857C9A8B8622CE",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Fairplay Golf Hotel & Spa",
+  "Rating": "5",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a096f1af104f6af009e99"
+  },
+  "ExternalHotelId": "HSNAPALZ",
+  "Address": {
+    "Lines": [
+      "PIAZZA PRINCIPE UMBERTO 35"
+    ],
+    "CityName": "NEAPEL",
+    "CountryCode": "IT",
+    "PostalCode": "80147"
+  },
+  "AveragePrize": 50,
+  "ChainCode": "HS",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "(39) 081287251",
+    "Fax": "(39) 081287251"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700072363",
+  "HotelDistance": {
+    "Distance": 6.7,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.85858,
+  "Longitude": 14.32802,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/646A34E1EA05445D91B176A24CA3CBDB",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Art Suite Principe Umberto B&B",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a096f1af104f6af009e9d"
+  },
+  "ExternalHotelId": "HSNAPAKZ",
+  "Address": {
+    "Lines": [
+      "VIA SANTA BRIGIDA 72"
+    ],
+    "CityName": "NEAPEL",
+    "CountryCode": "IT",
+    "PostalCode": "80132"
+  },
+  "AveragePrize": 74,
+  "ChainCode": "HS",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "(39) 0815424248",
+    "Fax": "(39) 0815422015"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700129455",
+  "HotelDistance": {
+    "Distance": 0.2,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.83903,
+  "Longitude": 14.25035,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/7983F5914A254F978D6A0C8183AAC655",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Attico Partenopeo B&B",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a096f1af104f6af009ea1"
+  },
+  "ExternalHotelId": "HSNAPADC",
+  "Address": {
+    "Lines": [
+      "PIAZZA G. BOVIO 22"
+    ],
+    "CityName": "NAPOLI",
+    "CountryCode": "IT",
+    "PostalCode": "80133"
+  },
+  "AveragePrize": 63,
+  "ChainCode": "HS",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "(39) 0815800479",
+    "Fax": "(39) 0817041858"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700057755",
+  "HotelDistance": {
+    "Distance": 0.4,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.84335,
+  "Longitude": 14.2551,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/3AE5F34772124300B12C8467ACDFF8E7",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Bovio Suite B&B",
+  "Rating": "3",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a096f1af104f6af009ea5"
+  },
+  "ExternalHotelId": "HSNAPAGU",
+  "Address": {
+    "Lines": [
+      "CORSO UMBERTO I 7"
+    ],
+    "CityName": "NAPOLI",
+    "CountryCode": "IT",
+    "PostalCode": "80138"
+  },
+  "AveragePrize": 46.7,
+  "ChainCode": "HS",
+  "CityCode": "NAP",
+  "Contact": {
+    "Phone": "(39) 0815510721",
+    "Fax": "(39) 0815510721"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "DupeId": "700162397",
+  "HotelDistance": {
+    "Distance": 0.5,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 40.84409,
+  "Longitude": 14.25629,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/9B916302AD0D4037B06E1E29D6F3298D",
+      "Category": "EXTERIOR"
+    }
+  ],
+  "Name": "Le Orchidee",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a09b01af104f6af009ec5"
+  },
+  "ExternalHotelId": "HSAGPAFG",
+  "Address": {
+    "Lines": [
+      "C- HINESTROSA 18"
+    ],
+    "CityName": "MALAGA",
+    "CountryCode": "ES",
+    "PostalCode": "29016"
+  },
+  "AveragePrize": 999,
+  "ChainCode": "HS",
+  "CityCode": "AGP",
+  "Contact": {
+    "Phone": "(34) 952062717",
+    "Fax": "(34) 951243913"
+  },
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "DupeId": "700127932",
+  "HotelDistance": {
+    "Distance": 0.6,
+    "DistanceUnit": "KM"
+  },
+  "Latitude": 36.72509,
+  "Longitude": -4.41877,
+  "Media": [
+    {
+      "Uri": "http://uat.multimediarepository.testing.amadeus.com/cmr/retrieve/hotel/59C207E3BBC8454C98907046418BF114",
+      "Category": "LOBBY"
+    }
+  ],
+  "Name": "Casa de Las Mercedes",
+  "Rating": "2",
+  "Type": "hotel",
+  "__v": 0
+}]

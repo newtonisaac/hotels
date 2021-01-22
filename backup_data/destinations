@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "IATACode": "FAO",
+  "City": "Faro",
+  "CountryCode": "PT",
+  "__v": 0,
+  "AccuLocationKey": "273190"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "IATACode": "FNC",
+  "City": "Madeira",
+  "CountryCode": "PT",
+  "__v": 0,
+  "AccuLocationKey": "863115"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "IATACode": "GRU",
+  "City": "São Paulo",
+  "CountryCode": "BR",
+  "__v": 0,
+  "AccuLocationKey": "45881"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c0e"
+  },
+  "IATACode": "SDU",
+  "City": "Rio de Janeiro",
+  "CountryCode": "BR",
+  "__v": 0,
+  "AccuLocationKey": "45449"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c10"
+  },
+  "IATACode": "FOR",
+  "City": "Fortaleza",
+  "CountryCode": "BR",
+  "__v": 0,
+  "AccuLocationKey": "43346"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "IATACode": "NAP",
+  "City": "Naples",
+  "CountryCode": "IT",
+  "__v": 0,
+  "AccuLocationKey": "212466"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c14"
+  },
+  "IATACode": "TRN",
+  "City": "Turin",
+  "CountryCode": "IT",
+  "__v": 0,
+  "AccuLocationKey": "214753"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c16"
+  },
+  "IATACode": "VRN",
+  "City": "Verona",
+  "CountryCode": "IT",
+  "__v": 0,
+  "AccuLocationKey": "216712"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c18"
+  },
+  "IATACode": "IBZ",
+  "City": "Ibiza",
+  "CountryCode": "ES",
+  "__v": 0,
+  "AccuLocationKey": "305762"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "IATACode": "AGP",
+  "City": "Málaga",
+  "CountryCode": "ES",
+  "__v": 0,
+  "AccuLocationKey": "306732"
+},{
+  "_id": {
+    "$oid": "6009cccd1af104f6af008c1c"
+  },
+  "IATACode": "XRY",
+  "City": "Jerez de la Frontera",
+  "CountryCode": "ES",
+  "__v": 0,
+  "AccuLocationKey": "306735"
+}]

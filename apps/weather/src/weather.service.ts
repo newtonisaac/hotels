@@ -3,18 +3,19 @@ import { WeatherDataService } from '@tui/domain/services/data/weather-data.servi
 import { WeatherDto } from './model/weather.dto';
 import { WeatherQueryDto } from './model/weather.query.dto';
 import { WeatherMapperService } from './model/wheater.mapper.dto';
+import { ObjectId } from 'mongoose/lib/types'
 
 @Injectable()
 export class WeatherService {
   
   constructor(
-    private WheaterDataService: WeatherDataService,
+    private weatherDataService: WeatherDataService,
     private mapper: WeatherMapperService
   ) { }
 
   async get(query: WeatherQueryDto): Promise<WeatherDto[]> {
-    const filter: WeatherQueryDto = {}
-    query.countryCode ? filter.countryCode = query.countryCode : undefined
-    return (await this.WheaterDataService.model.find()).map(this.mapper.toDto());
+    const filter: any = {}
+    query.destinationId ? filter.DestinationId = new ObjectId(query.destinationId) : undefined
+    return (await this.weatherDataService.model.find(filter)).map(this.mapper.toDto());
   }
 }

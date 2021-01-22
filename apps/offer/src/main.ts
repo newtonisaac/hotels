@@ -25,7 +25,7 @@ async function bootstrap(): Promise<void> {
 
 	const document = SwaggerModule.createDocument(app, options)
 
-	SwaggerModule.setup('docs', app, document, {
+	SwaggerModule.setup('offer/docs', app, document, {
 		customSiteTitle: customSiteTitle,
 	})
 

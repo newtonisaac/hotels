@@ -1,0 +1,1026 @@
+[{
+  "_id": {
+    "$oid": "600a15271af104f6af00a373"
+  },
+  "ExternalId": "4A3NPWLXTI",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dbb81af104f6af009069"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "40.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Season-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a376"
+  },
+  "ExternalId": "KSBRHZ1792",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dc391af104f6af00909d"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "224.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Season-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a379"
+  },
+  "ExternalId": "I5QBA4O6PZ",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090de"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "54.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "TradeFair-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a37c"
+  },
+  "ExternalId": "UAPDXFPZCY",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090e0"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "57.00"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Hot Deal\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a37f"
+  },
+  "ExternalId": "HCRS3874VW",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090e2"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "46.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Season-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a382"
+  },
+  "ExternalId": "MT2C4SG9YM",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090e4"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "43.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "HRS-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a385"
+  },
+  "ExternalId": "O9WD29SS8K",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090e6"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "85.00"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Hot Deal\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a388"
+  },
+  "ExternalId": "65WXXFLKJH",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090e8"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "95.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "B2T",
+    "Description": "FLEXIBLE RATE\nTWIN DELUXE ROOM\nBRIGHT, SPACIOUS ROOMS WITH BALCONY"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a38b"
+  },
+  "ExternalId": "XLQFXV7UKM",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090ea"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "1510.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "TradeFair-Rate - Suite\nSuite A suite consists of at least two rooms (bedroom and living room or working area) and a bathroom with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a38e"
+  },
+  "ExternalId": "G8BSLDHELQ",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090ec"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "63.20"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Hot Deal\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a391"
+  },
+  "ExternalId": "YSBB5PQ79Q",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090ee"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "59.90"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "TradeFair-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a394"
+  },
+  "ExternalId": "46BULP59JP",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090f0"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "47.52"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Hot Deal\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15271af104f6af00a397"
+  },
+  "ExternalId": "BZX27JFODH",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c08"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcdc1af104f6af0090f2"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "45.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "HRS-Rate - Single occupancy of double room\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a39e"
+  },
+  "ExternalId": "278J9MNBZE",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af0090f8"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "45.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Season-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3a1"
+  },
+  "ExternalId": "SSTK2H0UTL",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af0090fa"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": "76.00",
+    "Total": "76.00"
+  },
+  "RateCode": "BF1",
+  "Room": {
+    "Type": "CGH",
+    "Description": "Semi-flexible Rate\nMELIA ROOM TERRA VIEW 1 PERS BREAKFAST\nRoom w/veranda, bathroom, air-con, tv,"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3a4"
+  },
+  "ExternalId": "I0MC3UPK4H",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af0090fc"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "70.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "HRS-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3a7"
+  },
+  "ExternalId": "QMOYMDLP50",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af0090fe"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "19.80"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Hot Deal\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3aa"
+  },
+  "ExternalId": "3XSDXAADL3",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af009100"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "81.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Season-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3ad"
+  },
+  "ExternalId": "EJKHVNB17V",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af009102"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "68.00"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Season-Rate - LastMinute-Discount\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3b0"
+  },
+  "ExternalId": "YDINCKGD9L",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af009104"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "90.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Season-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3b3"
+  },
+  "ExternalId": "DCY55VWG9H",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af009106"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "64.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Event-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3b6"
+  },
+  "ExternalId": "Z30JKBNVSA",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af009108"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "37.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "HRS-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3b9"
+  },
+  "ExternalId": "7RO5UGPATY",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af00910a"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "176.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Event-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15311af104f6af00a3bc"
+  },
+  "ExternalId": "C6QARWM3SB",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dce61af104f6af00910c"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "51.30"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Season-Rate - LastMinute-Discount\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a153e1af104f6af00a3c3"
+  },
+  "ExternalId": "9PEE0H9725",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcf41af104f6af009113"
+  },
+  "Price": {
+    "Currency": "USD",
+    "Base": "93.00",
+    "Total": "107.22"
+  },
+  "RateCode": "S9R",
+  "Room": {
+    "Type": "XMI",
+    "Description": "Marriott Senior Discount, includes 62 years and older valid ID \nDeluxe Room, 2 Double, Mini fridge, 30sqm/323sq\nft, Wireless internet, complimentary, Coffee/te"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a153e1af104f6af00a3c6"
+  },
+  "ExternalId": "S7HL2DT8OJ",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcf41af104f6af009115"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": null,
+    "Total": "1.00"
+  },
+  "RateCode": "D20",
+  "Room": {
+    "Type": "C1D",
+    "Description": "Happy 20 Rate1234564569877896541-chambre seule\nNO INVOICE PAYMENT.\nStandard Room with a double bed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a153e1af104f6af00a3c9"
+  },
+  "ExternalId": "QH1JOCHL4H",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcf41af104f6af009117"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": "213.00",
+    "Total": "217.26"
+  },
+  "RateCode": "1BB",
+  "Room": {
+    "Type": "C1D",
+    "Description": "Best Rate With BB Included-BB/Bed+Brkfast\nThe hotel do not accept check.\nStandard apartment with 1 double bed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a153e1af104f6af00a3cc"
+  },
+  "ExternalId": "5T6Z8MWXUY",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcf41af104f6af009119"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": "190.00",
+    "Total": "199.50"
+  },
+  "RateCode": "1BB",
+  "Room": {
+    "Type": "C3S",
+    "Description": "Best Rate With BB Included-BB/Bed+Brkfast\nFor more than 5 rooms, contact the htl directly\nThe hotel do not accept check."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a153e1af104f6af00a3d0"
+  },
+  "ExternalId": "J260NODGW1",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcf41af104f6af00911b"
+  },
+  "Price": {
+    "Currency": "USD",
+    "Base": "200.00",
+    "Total": "211.90"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ZZL",
+    "Description": "Redescubra SP a partir de BRL 770 mais taxas, see Rate Rules\nDeluxe Room Queen, 1 Queen, 30sqm/323sqft, Wire\nless internet, for a fee, Wired internet, for a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a153e1af104f6af00a3d3"
+  },
+  "ExternalId": "F3JH2NT08D",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcf41af104f6af00911d"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": null,
+    "Total": "199.20"
+  },
+  "RateCode": "D20",
+  "Room": {
+    "Type": "C2T",
+    "Description": "Happy 20 Rate1234564569877896541-chambre seule\nTHE HOTEL DOES NOT ACCEPT INVOICE\nStandard Apartment with twin beds"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a153e1af104f6af00a3d6"
+  },
+  "ExternalId": "HU649UQ6S0",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0c"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcf41af104f6af00911f"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": "654.00",
+    "Total": "686.70"
+  },
+  "RateCode": "RDI",
+  "Room": {
+    "Type": "C2T",
+    "Description": "Rack rate-chambre seule\nPets not allowed. The hotel does not accept\nStandard Room with 2 single beds GB TEST GB"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15411af104f6af00a3db"
+  },
+  "ExternalId": "ZS8WWWE1UB",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c0e"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dcf71af104f6af009124"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": "304.00",
+    "Total": "319.20"
+  },
+  "RateCode": "RA1",
+  "Room": {
+    "Type": "C1D",
+    "Description": "FLEXIBLE RATE-chambre seule\nThe hotel do not accept check.\nStandard apartment with a double bed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a154d1af104f6af00a3e3"
+  },
+  "ExternalId": "QJYGWDM4N1",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c10"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dd041af104f6af00912a"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": null,
+    "Total": "132.80"
+  },
+  "RateCode": "D20",
+  "Room": {
+    "Type": "C2T",
+    "Description": "Happy 20 Rate1234564569877896541-chambre seule\nNO INVOICE PAYMENT\nStandard Room with twin beds."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a154d1af104f6af00a3e6"
+  },
+  "ExternalId": "0IEZKOV0VB",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c10"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dd041af104f6af00912c"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": "250.00",
+    "Total": "261.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "M2S",
+    "Description": "Book and Stay Breakfast Included\nSTANDARD ROOM 2 SINGLE BEDS"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a154d1af104f6af00a3e9"
+  },
+  "ExternalId": "EFBVCO229P",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c10"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009dd041af104f6af00912e"
+  },
+  "Price": {
+    "Currency": "BRL",
+    "Base": "262.00",
+    "Total": "275.10"
+  },
+  "RateCode": "RDI",
+  "Room": {
+    "Type": "C2T",
+    "Description": "Rack rate-chambre seule\nThe hotel do not accept check.\nStandard Room with 2 single beds GB TEST GB"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a155c1af104f6af00a3f1"
+  },
+  "ExternalId": "VU66W6HPVB",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "600a096f1af104f6af009e99"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "50.00"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Hot Deal\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a155c1af104f6af00a3f4"
+  },
+  "ExternalId": "UGX7NK58IF",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "600a096f1af104f6af009e9d"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "74.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Event-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a155c1af104f6af00a3f7"
+  },
+  "ExternalId": "2Z0F9V6IIR",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "600a096f1af104f6af009ea1"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "63.00"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "Hot Deal\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a155c1af104f6af00a3fa"
+  },
+  "ExternalId": "1T2OFYAX35",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c12"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "600a096f1af104f6af009ea5"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "46.70"
+  },
+  "RateCode": "PRO",
+  "Room": {
+    "Type": "ROH",
+    "Description": "TradeFair-Rate - LastMinute-Discount\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15991af104f6af00a415"
+  },
+  "ExternalId": "7HR4S5AI1I",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "600a09b01af104f6af009ec5"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": null,
+    "Total": "999.00"
+  },
+  "RateCode": "RAC",
+  "Room": {
+    "Type": "ROH",
+    "Description": "TradeFair-Rate\nStandard room A standard room consists of a room with shower-toilet or bathtub-toilet."
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600a15991af104f6af00a418"
+  },
+  "ExternalId": "Y8FGTMQDLV",
+  "DestinationId": {
+    "$oid": "6009cccd1af104f6af008c1a"
+  },
+  "Guests": {
+    "Adults": 1
+  },
+  "HotelId": {
+    "$oid": "6009ddde1af104f6af0092b8"
+  },
+  "Price": {
+    "Currency": "EUR",
+    "Base": "48.18",
+    "Total": "53.00"
+  },
+  "RateCode": "BF1",
+  "Room": {
+    "Type": "D2T",
+    "Description": "Semi-flexible Rate\nSOL ROOM 1 PERSON BREAKFAST\n20m2 and 8m2 terrace,telephone,AC. Safe,"
+  },
+  "__v": 0
+}]
