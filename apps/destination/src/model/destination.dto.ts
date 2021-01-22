@@ -2,6 +2,8 @@ import { MaxLength, IsNotEmpty, IsString } from 'class-validator';
 
 export class DestinationDto {
   @IsString()
+  id: string;
+  @IsString()
   @IsNotEmpty()
   City: string;
   

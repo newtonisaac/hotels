@@ -8,6 +8,7 @@ import { Hotel } from '@tui/domain/documents/hotel.document';
 import { IMedium, IHotel } from '@tui/domain/interfaces/hotel.interface';
 import { Offer } from '@tui/domain/documents/offer.document';
 import { IOffer } from '@tui/domain/interfaces/offer.interface';
+import { ObjectId } from 'mongoose/lib/types'
 
 @Injectable()
 export class HotelSeederService {
@@ -46,7 +47,7 @@ export class HotelSeederService {
     }
   }
 
-  private async saveHotel(destinationId: any, amadeushotelOffer: AmadeusHotelOffer): Promise<Hotel> {
+  private async saveHotel(destinationId: string, amadeushotelOffer: AmadeusHotelOffer): Promise<Hotel> {
 
     const averagePrize = amadeushotelOffer?.offers.map(offer => offer?.price?.total ? parseFloat(offer?.price?.total) : 0)
                                                   .reduce((a, b) => a + b, 0)
@@ -80,19 +81,16 @@ export class HotelSeederService {
         Uri: m.uri,
         Category: m.category,    
       }),
-      Description: {
-        Lang: amadeusHotel.description?.lang,
-        Text: amadeusHotel.description?.text,
-      },
-      DestinationId: destinationId,
+      Description: amadeusHotel.description?.text,
+      DestinationId: new ObjectId(destinationId),
       AveragePrize: averagePrize,
     }
 
     return await this.hotelDataService.model.findOneAndUpdate({ ExternalHotelId: hotel.ExternalHotelId }, hotel, { upsert: true, new: true })
   }
   
-  private async saveOffer(destinationId: any, hotelId: any, amadeuOffer: AmadeusOffer): Promise<Offer> {
-
+  private async saveOffer(destinationId: string, hotelId: string, amadeuOffer: AmadeusOffer): Promise<Offer> {
+  
     const offer: IOffer = {
       ExternalId: amadeuOffer.id,
       RateCode: amadeuOffer.rateCode,
@@ -107,7 +105,9 @@ export class HotelSeederService {
         Currency: amadeuOffer.price?.currency,
         Base: amadeuOffer.price?.base,
         Total: amadeuOffer.price?.total,
-      }
+      },
+      DestinationId: new ObjectId(destinationId),
+      HotelId: new ObjectId(hotelId),
     }
 
     return await this.offerDataService.model.findOneAndUpdate({ ExternalId: offer.ExternalId }, offer, { upsert: true })

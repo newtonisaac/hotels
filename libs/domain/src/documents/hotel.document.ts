@@ -1,7 +1,7 @@
 import * as mongoose from 'mongoose'
 import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 import { Document } from 'mongoose';
-import { IHotel, IHotelDistance, IAddress, IContact, IMedium, IDescription } from '../interfaces/hotel.interface';
+import { IHotel, IHotelDistance, IAddress, IContact, IMedium } from '../interfaces/hotel.interface';
 
 @Schema()
 export class Hotel extends Document implements IHotel {
@@ -45,8 +45,8 @@ export class Hotel extends Document implements IHotel {
   @Prop({ type: mongoose.Schema.Types.Mixed })
   Media: IMedium[];
 
-  @Prop({ type: mongoose.Schema.Types.Mixed })
-  Description: IDescription;
+  @Prop()
+  Description: string;
 
   @Prop({ type: mongoose.Schema.Types.ObjectId, ref: 'destinations' })
   DestinationId: string;

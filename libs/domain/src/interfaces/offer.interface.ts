@@ -5,6 +5,8 @@ export interface IOffer {
     Room: IRoom;
     Guests: IGuests;
     Price: IPrice;
+    DestinationId: string;
+    HotelId: string;
 }
 
 export interface IRoom {

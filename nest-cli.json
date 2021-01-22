@@ -6,7 +6,9 @@
   "compilerOptions": {
     "webpack": true,
     "tsConfigPath": "apps/seeder/tsconfig.app.json",
-    "plugins": ["@nestjs/swagger/plugin"]
+    "plugins": [
+      "@nestjs/swagger/plugin"
+    ]
   },
   "projects": {
     "seeder": {
@@ -43,6 +45,33 @@
       "sourceRoot": "libs/integration/src",
       "compilerOptions": {
         "tsConfigPath": "libs/integration/tsconfig.lib.json"
+      }
+    },
+    "weather": {
+      "type": "application",
+      "root": "apps/weather",
+      "entryFile": "main",
+      "sourceRoot": "apps/weather/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/weather/tsconfig.app.json"
+      }
+    },
+    "hotel": {
+      "type": "application",
+      "root": "apps/hotel",
+      "entryFile": "main",
+      "sourceRoot": "apps/hotel/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/hotel/tsconfig.app.json"
+      }
+    },
+    "offer": {
+      "type": "application",
+      "root": "apps/offer",
+      "entryFile": "main",
+      "sourceRoot": "apps/offer/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/offer/tsconfig.app.json"
       }
     }
   }

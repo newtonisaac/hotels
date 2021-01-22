@@ -14,7 +14,7 @@ export interface IHotel {
     Contact: IContact;
     Amenities: string[];
     Media: IMedium[];
-    Description: IDescription;
+    Description: string;
     DestinationId: string;
     AveragePrize?: number;
 }
@@ -39,9 +39,4 @@ export interface IContact {
 export interface IMedium {
     Uri: string;
     Category: string;
-}
-
-export interface IDescription {
-    Lang: string;
-    Text: string;
 }
