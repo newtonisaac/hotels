@@ -14,6 +14,6 @@ export class AppService {
   async seed(){
     await this.destinationSeederService.seed();
     await this.hotelSeederService.seed();
-    //await this.weatherSeederService.seed();
+    await this.weatherSeederService.seed();
   }
 }

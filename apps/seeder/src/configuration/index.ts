@@ -11,7 +11,7 @@ export default () => ({
     },
     accuweather: {
         api_url: process.env.ACCUWEATHER_API_URL,
-        api_key: process.env.ACCUWEATHER_API_KEY_4,
+        api_key: process.env.ACCUWEATHER_API_KEY_1,
     },
     mongo: { connection: process.env.MONGO_CONNECTION }
 })
