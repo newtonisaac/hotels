@@ -7,15 +7,15 @@
 ## Description
 
 Libs:
-Domain -> Contains and centralize the business logic 
-Integration -> Resposible to implement data getters for external APIs
+- Domain -> Contains and centralize the business logic 
+- Integration -> Resposible to implement data getters for external APIs
 
 Apps:
-Seeder -> Job for get and upsert data to mongodb
-Destination -> API of cities/airports from Brazil/Portugal/Italy/Spain
-Hotel -> API to get hotel for destination and/or ordenares by price/ratio 
-Offer -> API to get best offers or/and offer by destination
-Weather -> API to retrieve the current* weather of a destination  
+- Seeder -> Job for get and upsert data to mongodb
+- Destination -> API of cities/airports from Brazil/Portugal/Italy/Spain
+- Hotel -> API to get hotel for destination and/or ordenares by price/ratio 
+- Offer -> API to get best offers or/and offer by destination
+- Weather -> API to retrieve the current* weather of a destination  
 
 ## Installation
 
@@ -43,7 +43,3 @@ yarn start weather     # -> http://localhost:3000/weather/docs
 ## Stay in touch
 
 - Author/Website - [Isaac Newton](https://engisaacnewton.com/)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
